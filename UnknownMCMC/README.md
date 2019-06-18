@@ -1,14 +1,10 @@
-# Bayesian Statistics Final Project
+# Using MCMC to Explore Unknown Data
 
 Lindsay Sonderhouse and Jeffrey Moore
 
 We construct a model to fit data whose origin is unknown. The data is modeled
 using multiple linear regression with a two component Gaussian mixture model, obtained through MCMC
-simulations. The model uses Cauchy priors for the intercepts and slopes. Importance sampling is used to perform a sensitivity analysis on the priors.
-
-Comparisons with a single component Gaussian model and extensions of the two component mixture model are
-
-discussed.
+simulations. The model uses Cauchy priors for the intercepts and slopes. Importance sampling is used to perform a sensitivity analysis on the priors. Comparisons with a single component Gaussian model and extensions of the two component mixture model are discussed.
 
 ## Exploratory Analysis
 
