@@ -22,7 +22,7 @@ Exploratory Analysis
 In order to visualize the data, I plotted the temperature and
 electricity usage (from here on referred to as energy usage) as a
 function of time for both years (see
-Fig. 1. The approximate trend appears to be that
+Fig. 2. The approximate trend appears to be that
 temperatures are lowest in December/January and highest in July/August,
 and energy usage being lowest in July/August and highest in
 December/January. While the structure of the time-series data is similar
@@ -32,63 +32,77 @@ greatly across the population.
 Visualizing the direct temperature/energy relationship, I plotted the
 energy usage data as a function of temperature, while only
 differentiating data by the year the data was taken (see
-Fig. [1](#fig:exploratory2){reference-type="ref"
-reference="fig:exploratory2"}. While one year was quite a bit warmer
+Fig. 1. While one year was quite a bit warmer
 than the other, there appears to be one underlying relationship between
 temperature and energy usage that remains static, which is good for a
 model that proposes to predict the energy usage for a third, random
 year.
 
-![Average monthly temperature (in $^\circ$Celsius) of cities over time
-for two random, non-consecutive
-years.](figs/exploratory1b.png){width="\\textwidth"}
-
-[\[fig:temp\_time\]]{#fig:temp_time label="fig:temp_time"}
-
+### Figure 1
+Energy usage (in 100 GWh) of cities over time for two random,
+non-consecutive years.
 ![Energy usage (in 100 GWh) of cities over time for two random,
-non-consecutive years.](figs/exploratory1a.png){width="\\textwidth"}
+non-consecutive years.](figs/exploratory1a.png)
 
-[\[fig:energy\_time\]]{#fig:energy_time label="fig:energy_time"}
+
+### Figure 2
+Average monthly temperature (in deg. Celsius) of cities over time
+for two random, non-consecutive
+years.
+![Average monthly temperature (in deg. Celsius) of cities over time
+for two random, non-consecutive
+years.](figs/exploratory1b.png)
 
 It is also clear given the structure of the data that the relationship
 between temperature and energy usage is non-linear, and exhibits what
 appears to be an exponential increase in energy usage as temperatures
 get lower. Assuming that the relationship is, in fact, exponential with
 respect to temperature, this suggests that a logarithmic transformation
-of the data by the function $$\label{eqn:g}
-  g(y) = \ln(y+1)$$ could be used to linearize the data. Plotting the
-relationship between $g(\text{energy usage})$ and temperature, the
+of the data by the function g(y) = ln(y+1) could be used to linearize the data. Plotting the
+relationship between g(energy usage) and temperature, the
 transformed data appears well suited for a linear model, especially when
 considering observations from the city of Denver independent of other
 cities, as I'll discuss further in the next section.
 
-![Plots of the relationship between energy usage (in hundreds of GWh) vs
-temperature ($^\circ$Celcius) with observations segregated by year. The
+### Figure 3
+Plots of the relationship between energy usage (in hundreds of GWh) vs
+temperature (deg. Celcius) with observations segregated by year. The
 first plot visualizes the raw relationship, whereas the second explores
 the transformed (logarithmic)
-relationship.[]{label="fig:exploratory2"}](figs/exploratory2.png){#fig:exploratory2
-width="90%"}
+relationship.
+![Plots of the relationship between energy usage (in hundreds of GWh) vs
+temperature (deg. Celcius) with observations segregated by year. The
+first plot visualizes the raw relationship, whereas the second explores
+the transformed (logarithmic)
+relationship.](figs/exploratory2.png)
 
+### Figure 4
+Linear regression fit and confidence intervals for the transformed
+energy usage vs temperature data for Denver, CO
+only.
 ![Linear regression fit and confidence intervals for the transformed
 energy usage vs temperature data for Denver, CO
-only.](figs/denver_fit.png){width="\\textwidth"}
+only.](figs/denver_fit.png)
 
-[\[fig:denver\_fit\]]{#fig:denver_fit label="fig:denver_fit"}
-
+### Figure 5
+Linear regression fits for the transformed energy usage vs temperature
+data for select cities independent from other cities'
+data.
 ![Linear regression fits for the transformed energy usage vs temperature
 data for select cities independent from other cities'
-data.](figs/select_cities.png){width="\\textwidth"}
+data.](figs/select_cities.png)
 
-[\[fig:select\_cities\]]{#fig:select_cities label="fig:select_cities"}
-
+### Figure 6
+A box plot summarizing the behavior of the overall population of
+different cities when comparing transformed energy usage and
+temperature. Observations of Denver stand out as outliers relative to
+the behavior of the population, indicating a pooled model would not be
+appropriate.
 ![A box plot summarizing the behavior of the overall population of
 different cities when comparing transformed energy usage and
 temperature. Observations of Denver stand out as outliers relative to
 the behavior of the population, indicating a pooled model would not be
-appropriate.](figs/denver_relative_pooled.png){width="\\textwidth"}
-
-[\[fig:relative\_pooled\]]{#fig:relative_pooled
-label="fig:relative_pooled"}
+appropriate.](figs/denver_relative_pooled.png)
 
 Model Selection
 ============================================================
@@ -96,53 +110,45 @@ Model Selection
 Since the goal of the model is to predict data for Denver, Colorado, I
 begin by first examining how a simple linear regression performs on the
 log-transformed energy vs temperature data.
-Fig. [\[fig:denver\_fit\]](#fig:denver_fit){reference-type="ref"
-reference="fig:denver_fit"} demonstrates the strength of this
+Fig. 4 demonstrates the strength of this
 transformation. Qualitatively, the transformed data linearizes the
 Denver data very nicely, and a linear regression for Denver alone
-results in a $R^2$ value of $0.94$. In addition, the residuals plotted
+results in a R^2 value of 0.94. In addition, the residuals plotted
 vs fitted values
-(Fig. [\[fig:denver\_resid\]](#fig:denver_resid){reference-type="ref"
-reference="fig:denver_resid"}) is nicely distributed, suggesting that
+(Fig. 7) is nicely distributed, suggesting that
 the assumption of linearity is valid. Furthermore, a Q-Q plot
-(Fig. [\[fig:denver\_qq\]](#fig:denver_qq){reference-type="ref"
-reference="fig:denver_qq"}) comparing the theoretical quantiles tells us
+(Fig. 8) comparing the theoretical quantiles tells us
 that the assumption of normality is also upheld. Lastly, a leverage plot
-(Fig. [\[fig:denver\_leverage\]](#fig:denver_leverage){reference-type="ref"
-reference="fig:denver_leverage"}) shows that there are no observations
+(Fig. 9) shows that there are no observations
 for the city of Denver that are leverage points. All this builds a
 reasonable case that a very simple model that only considers
 observations from Denver should be considered.
 
+### Figure 7
+Residuals vs fitted values.
 ![Residuals vs fitted
-values.](figs/denver_diagnostic001.png){width="\\textwidth"}
+values.](figs/denver_diagnostic001.png)
 
-[\[fig:denver\_resid\]]{#fig:denver_resid label="fig:denver_resid"}
+### Figure 8
+Normal Q-Q plot.
+![Normal Q-Q plot.](figs/denver_diagnostic002.png)
 
-![Normal Q-Q plot.](figs/denver_diagnostic002.png){width="\\textwidth"}
-
-[\[fig:denver\_qq\]]{#fig:denver_qq label="fig:denver_qq"}
-
-![Leverage plot.](figs/denver_diagnostic004.png){width="\\textwidth"}
-
-[\[fig:denver\_leverage\]]{#fig:denver_leverage
-label="fig:denver_leverage"}
+### Figure 9
+Leverage plot.
+![Leverage plot.](figs/denver_diagnostic004.png)
 
 Given that the overall trend of the energy/temperature relationship is
 preserved across different cities (as seen in the exploratory analysis)
 it would be helpful to use that data to capture the underlying structure
 (as well as variability) into our model. To verify that the
-transformation in Eqn. [\[eqn:g\]](#eqn:g){reference-type="ref"
-reference="eqn:g"} is suitable for the aggregated city data, I repeated
+transformation in equation g(y) = ln(y+1) is suitable for the aggregated city data, I repeated
 the diagnostics described above for the pooled city model, and found no
 signs of linearity or normality violations, nor considerable leverage
 points. However, as can be see in
-Fig. [\[fig:select\_cities\]](#fig:select_cities){reference-type="ref"
-reference="fig:select_cities"}, the data for different cities does not
+Fig. 5, the data for different cities does not
 exhibit identical behavior as that seen in the trend for Denver. In
 fact, comparing the trend for Denver to a pooled model in a box plot
-(Fig. [\[fig:relative\_pooled\]](#fig:relative_pooled){reference-type="ref"
-reference="fig:relative_pooled"}), the Denver observations appear to be
+(Fig. 6), the Denver observations appear to be
 outliers relative to the average trend of the aggregated data. It's
 therefore clear that a pooled model would not provide an accurate
 prediction for the city of Denver.
@@ -155,13 +161,17 @@ mixed effects model with city-dependent random effects for both
 temperature and intercept. This way we can use the data of all cities to
 inform how variable we might expect future data to be, while our
 predictions will best fit the trend that Denver has seen historically.
-Our model in this case will be $$\label{eqn:mod}
-  g(E_{jk}+1) = \beta_0 + a_j + (\beta_1 + b_j)T_k + e_{jk},$$ where
-$E_{jk}$ is the energy usage (in hundreds of GWh) for city $j$ at time
-$k$, $T_{jk}$ is the temperature (in $^\circ$C) in city $j$ at time $k$,
-$\beta_0$ and $\beta_1$ are the fixed intercept and slope for the
-population of cities, $a_j$ and $b_j$ are the differences of these
-parameters for the specific city $j$, and $e_jk$ is a noise term. This
+Our model in this case will be:
+
+### Equation 1
+![Equation for the model](figs/eqn1.png)
+
+where
+E_{jk} is the energy usage (in hundreds of GWh) for city j at time
+k, T_{jk} is the temperature (in deg. C) in city j at time k,
+beta_0 and beta_1 are the fixed intercept and slope for the
+population of cities, a_j and b_j are the differences of these
+parameters for the specific city j, and e_{jk} is a noise term. This
 model incorporates the best of both worlds---a mix between a simple, yet
 well-fit model that only considers Denver's data for the purpose of
 predicting more data from Denver, and a model that incorporates all the
@@ -171,30 +181,29 @@ Model Results and Analyses
 =============================================================================
 
 In order to fit the model described by
-Eqn. [\[eqn:mod\]](#eqn:mod){reference-type="ref" reference="eqn:mod"},
-I used the $lmer$ function in R's $lme4$ package, including random
+Eqn. 1,
+I used the lmer function in R's lme4 package, including random
 effects for both intercept and temperature by city. The function finds
 the fixed effect values of
-$\beta_0 = 2.94 \pm 0.04, \beta_1 = -0.078 \pm 0.003$, and each are
-extremely significant with t-value magnitudes $>25$. The standard
-deviations of the random effects based on city are $0.23$ for the
-intercept random effects and $0.02$ for temperature.
+beta_0 = 2.94 +- 0.04, beta_1 = -0.078 +- 0.003, and each are
+extremely significant with t-value magnitudes >25. The standard
+deviations of the random effects based on city are 0.23 for the
+intercept random effects and 0.02 for temperature.
 
-For a goodness-of-fit criterion, I calculate $\Omega_0^2$ (a kind of
-pseudo-$R^2$) of the model by comparing the variance of the full model
+For a goodness-of-fit criterion, I calculate Omega_0^2 (a kind of
+pseudo-R^2) of the model by comparing the variance of the full model
 with the variance of a fixed, intercept-only model
-$\Omega_0^2 = 1-Var(M_{full})/Var(M_{null})$. For this model, I find
-$\Omega_0^2 = 0.84$. Given the high variance in the data, I believe this
+Omega_0^2 = 1-Var(M_{full})/Var(M_{null}). For this model, I find
+Omega_0^2 = 0.84. Given the high variance in the data, I believe this
 model explains an acceptable fraction. In addition, the residuals vs
 fitted values are well-distributed without any sign of violations of
 linearity.
 
-The model parameters $\boldsymbol{\beta}$ as well as the random effects
+The model parameters beta as well as the random effects
 for the city of Denver, CO were used to make predictions given the
 temperature data from Denver for the third year. These predictions, as
 well as calculated prediction intervals, are shown in
-Fig. [2](#fig:prediction){reference-type="ref"
-reference="fig:prediction"}. Included in the figure are the Denver
+Fig. . Included in the figure are the Denver
 observations from previous years. As a sanity check, it is good to see
 that all the previous observations fall into the range of the prediction
 interval, and the predictions for the new temperature data seem
@@ -203,22 +212,22 @@ reasonable qualitatively.
 In order to determine whether the random effects are significant, I
 fitted two reduced models: one model with no random effects and one
 model with only intercept random effects based on city. I then performed
-a likelihood ratio test using R's $anova$ function, and found that the
+a likelihood ratio test using R's anova function, and found that the
 full model with random effects for both intercept and temperature was
-extremely significant ($p<2.2\times10^{-16}$), justifying the use of
+extremely significant (p<2.2*10^{-16}), justifying the use of
 random effects for both intercept and temperature.
 
 ![Predictions and 95% prediction intervals for third year of data from
-Denver, CO. To compare, I have also plotted the known Denver data from
+Denver, CO. ](figs/denver_predictions.png)
+
+To compare, I have also plotted the known Denver data from
 previous years. Prediction intervals were calculated from both fixed
 effects uncertainty plus the random effects variance by computing
-$XVX^T$ (where $X$ is the matrix of the new Denver data, and $V$ is the
-variance-covariance matrix from parameters $\boldsymbol{\beta}$), as
+XVX^T (where X is the matrix of the new Denver data, and V is the
+variance-covariance matrix from parameters beta), as
 well as adding the residual variance (note that this is the method
 outlined by Ben Bolker at
-http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html).[]{label="fig:prediction"}](figs/denver_predictions.png){#fig:prediction
-width="65%"}
-
+http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html ).
 Conclusions and Future Extensions
 =============================================================================================
 
@@ -229,8 +238,7 @@ would explore in order to further optimize my model selection.
 
 First, I could use a Box-Cox transformation to tune my transformation
 function more finely, rather than the simple logarithmic transformation
-described by Eqn. [\[eqn:g\]](#eqn:g){reference-type="ref"
-reference="eqn:g"}. This would test my assumption that the energy usage
+described by g(y) = ln(y+1) . This would test my assumption that the energy usage
 increases exponentially with colder temperatures. I could then compare
 the performance of a mixed random effects model using both of these
 approaches by comparing the model likelihoods.
@@ -247,7 +255,7 @@ packages that could account for zero-inflation and compare its
 performance and likelihood to models without this consideration.
 
 Given the significance of the random effects for the mixed effects
-model, goodness-of-fit (respectable $\Omega_0^2$), qualitative
+model, goodness-of-fit (respectable Omega_0^2), qualitative
 performance of the calculated prediction interval compared to historical
 data, I believe the model described above is a good balance between
 simplicity and complexity. I am reasonably confident in the accuracy of
