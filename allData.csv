@@ -1,0 +1,1225 @@
+,City,Year,Month,Temperature,Energy,MonthNo,LogEnergy
+0,"Atlanta, Georgia",1,Jan,11,7,1,2.0794415416798357
+1,"Atlanta, Georgia",1,Feb,14,3,2,1.3862943611198906
+2,"Atlanta, Georgia",1,Mar,18,4,3,1.6094379124341003
+3,"Atlanta, Georgia",1,Apr,23,4,4,1.6094379124341003
+4,"Atlanta, Georgia",1,May,27,3,5,1.3862943611198906
+5,"Atlanta, Georgia",1,Jun,30,3,6,1.3862943611198906
+6,"Atlanta, Georgia",1,Jul,32,2,7,1.0986122886681098
+7,"Atlanta, Georgia",1,Aug,31,3,8,1.3862943611198906
+8,"Atlanta, Georgia",1,Sep,28,2,9,1.0986122886681098
+9,"Atlanta, Georgia",1,Oct,23,3,10,1.3862943611198906
+10,"Atlanta, Georgia",1,Nov,18,6,11,1.9459101490553132
+11,"Atlanta, Georgia",1,Dec,12,7,12,2.0794415416798357
+12,"Atlanta, Georgia",2,Jan,1,18,1,2.9444389791664403
+13,"Atlanta, Georgia",2,Feb,3,17,2,2.8903717578961645
+14,"Atlanta, Georgia",2,Mar,7,9,3,2.302585092994046
+15,"Atlanta, Georgia",2,Apr,11,4,4,1.6094379124341003
+16,"Atlanta, Georgia",2,May,16,3,5,1.3862943611198906
+17,"Atlanta, Georgia",2,Jun,20,5,6,1.791759469228055
+18,"Atlanta, Georgia",2,Jul,22,3,7,1.3862943611198906
+19,"Atlanta, Georgia",2,Aug,22,2,8,1.0986122886681098
+20,"Atlanta, Georgia",2,Sep,18,4,9,1.6094379124341003
+21,"Atlanta, Georgia",2,Oct,12,9,10,2.302585092994046
+22,"Atlanta, Georgia",2,Nov,7,11,11,2.4849066497880004
+23,"Atlanta, Georgia",2,Dec,3,12,12,2.5649493574615367
+24,"Austin, Texas",1,Jan,16,1,1,0.6931471805599453
+25,"Austin, Texas",1,Feb,18,3,2,1.3862943611198906
+26,"Austin, Texas",1,Mar,22,2,3,1.0986122886681098
+27,"Austin, Texas",1,Apr,27,2,4,1.0986122886681098
+28,"Austin, Texas",1,May,30,3,5,1.3862943611198906
+29,"Austin, Texas",1,Jun,33,1,6,0.6931471805599453
+30,"Austin, Texas",1,Jul,35,1,7,0.6931471805599453
+31,"Austin, Texas",1,Aug,36,2,8,1.0986122886681098
+32,"Austin, Texas",1,Sep,33,0,9,0.0
+33,"Austin, Texas",1,Oct,28,1,10,0.6931471805599453
+34,"Austin, Texas",1,Nov,22,2,11,1.0986122886681098
+35,"Austin, Texas",1,Dec,17,1,12,0.6931471805599453
+36,"Austin, Texas",2,Jan,5,7,1,2.0794415416798357
+37,"Austin, Texas",2,Feb,7,10,2,2.3978952727983707
+38,"Austin, Texas",2,Mar,11,7,3,2.0794415416798357
+39,"Austin, Texas",2,Apr,15,3,4,1.3862943611198906
+40,"Austin, Texas",2,May,19,4,5,1.6094379124341003
+41,"Austin, Texas",2,Jun,22,4,6,1.6094379124341003
+42,"Austin, Texas",2,Jul,24,0,7,0.0
+43,"Austin, Texas",2,Aug,24,4,8,1.6094379124341003
+44,"Austin, Texas",2,Sep,21,2,9,1.0986122886681098
+45,"Austin, Texas",2,Oct,16,4,10,1.6094379124341003
+46,"Austin, Texas",2,Nov,10,7,11,2.0794415416798357
+47,"Austin, Texas",2,Dec,6,8,12,2.1972245773362196
+48,"Baltimore, Maryland",1,Jan,5,13,1,2.6390573296152584
+49,"Baltimore, Maryland",1,Feb,7,19,2,2.995732273553991
+50,"Baltimore, Maryland",1,Mar,12,10,3,2.3978952727983707
+51,"Baltimore, Maryland",1,Apr,18,11,4,2.4849066497880004
+52,"Baltimore, Maryland",1,May,23,13,5,2.6390573296152584
+53,"Baltimore, Maryland",1,Jun,28,9,6,2.302585092994046
+54,"Baltimore, Maryland",1,Jul,31,9,7,2.302585092994046
+55,"Baltimore, Maryland",1,Aug,30,5,8,1.791759469228055
+56,"Baltimore, Maryland",1,Sep,26,6,9,1.9459101490553132
+57,"Baltimore, Maryland",1,Oct,19,10,10,2.3978952727983707
+58,"Baltimore, Maryland",1,Nov,14,15,11,2.772588722239781
+59,"Baltimore, Maryland",1,Dec,7,13,12,2.6390573296152584
+60,"Baltimore, Maryland",2,Jan,-4,19,1,2.995732273553991
+61,"Baltimore, Maryland",2,Feb,-3,17,2,2.8903717578961645
+62,"Baltimore, Maryland",2,Mar,1,21,3,3.091042453358316
+63,"Baltimore, Maryland",2,Apr,6,19,4,2.995732273553991
+64,"Baltimore, Maryland",2,May,11,9,5,2.302585092994046
+65,"Baltimore, Maryland",2,Jun,17,13,6,2.6390573296152584
+66,"Baltimore, Maryland",2,Jul,19,12,7,2.5649493574615367
+67,"Baltimore, Maryland",2,Aug,18,7,8,2.0794415416798357
+68,"Baltimore, Maryland",2,Sep,14,15,9,2.772588722239781
+69,"Baltimore, Maryland",2,Oct,7,17,10,2.8903717578961645
+70,"Baltimore, Maryland",2,Nov,3,22,11,3.1354942159291497
+71,"Baltimore, Maryland",2,Dec,-2,11,12,2.4849066497880004
+72,"Birmingham, Alabama",1,Jan,12,1,1,0.6931471805599453
+73,"Birmingham, Alabama",1,Feb,15,4,2,1.6094379124341003
+74,"Birmingham, Alabama",1,Mar,19,0,3,0.0
+75,"Birmingham, Alabama",1,Apr,24,1,4,0.6931471805599453
+76,"Birmingham, Alabama",1,May,28,2,5,1.0986122886681098
+77,"Birmingham, Alabama",1,Jun,31,0,6,0.0
+78,"Birmingham, Alabama",1,Jul,33,1,7,0.6931471805599453
+79,"Birmingham, Alabama",1,Aug,33,0,8,0.0
+80,"Birmingham, Alabama",1,Sep,30,0,9,0.0
+81,"Birmingham, Alabama",1,Oct,24,0,10,0.0
+82,"Birmingham, Alabama",1,Nov,19,2,11,1.0986122886681098
+83,"Birmingham, Alabama",1,Dec,13,3,12,1.3862943611198906
+84,"Birmingham, Alabama",2,Jan,1,17,1,2.8903717578961645
+85,"Birmingham, Alabama",2,Feb,3,17,2,2.8903717578961645
+86,"Birmingham, Alabama",2,Mar,7,14,3,2.70805020110221
+87,"Birmingham, Alabama",2,Apr,10,7,4,2.0794415416798357
+88,"Birmingham, Alabama",2,May,15,3,5,1.3862943611198906
+89,"Birmingham, Alabama",2,Jun,20,3,6,1.3862943611198906
+90,"Birmingham, Alabama",2,Jul,22,0,7,0.0
+91,"Birmingham, Alabama",2,Aug,22,0,8,0.0
+92,"Birmingham, Alabama",2,Sep,18,2,9,1.0986122886681098
+93,"Birmingham, Alabama",2,Oct,12,4,10,1.6094379124341003
+94,"Birmingham, Alabama",2,Nov,6,12,11,2.5649493574615367
+95,"Birmingham, Alabama",2,Dec,2,18,12,2.9444389791664403
+96,"Boston, Massachusetts",1,Jan,2,19,1,2.995732273553991
+97,"Boston, Massachusetts",1,Feb,4,14,2,2.70805020110221
+98,"Boston, Massachusetts",1,Mar,7,4,3,1.6094379124341003
+99,"Boston, Massachusetts",1,Apr,13,1,4,0.6931471805599453
+100,"Boston, Massachusetts",1,May,19,3,5,1.3862943611198906
+101,"Boston, Massachusetts",1,Jun,24,1,6,0.6931471805599453
+102,"Boston, Massachusetts",1,Jul,27,3,7,1.3862943611198906
+103,"Boston, Massachusetts",1,Aug,26,2,8,1.0986122886681098
+104,"Boston, Massachusetts",1,Sep,22,3,9,1.3862943611198906
+105,"Boston, Massachusetts",1,Oct,16,4,10,1.6094379124341003
+106,"Boston, Massachusetts",1,Nov,11,6,11,1.9459101490553132
+107,"Boston, Massachusetts",1,Dec,5,13,12,2.6390573296152584
+108,"Boston, Massachusetts",2,Jan,-5,29,1,3.4011973816621555
+109,"Boston, Massachusetts",2,Feb,-4,23,2,3.1780538303479458
+110,"Boston, Massachusetts",2,Mar,0,16,3,2.833213344056216
+111,"Boston, Massachusetts",2,Apr,5,7,4,2.0794415416798357
+112,"Boston, Massachusetts",2,May,10,5,5,1.791759469228055
+113,"Boston, Massachusetts",2,Jun,15,5,6,1.791759469228055
+114,"Boston, Massachusetts",2,Jul,19,2,7,1.0986122886681098
+115,"Boston, Massachusetts",2,Aug,18,2,8,1.0986122886681098
+116,"Boston, Massachusetts",2,Sep,14,5,9,1.791759469228055
+117,"Boston, Massachusetts",2,Oct,8,11,10,2.4849066497880004
+118,"Boston, Massachusetts",2,Nov,3,11,11,2.4849066497880004
+119,"Boston, Massachusetts",2,Dec,-2,15,12,2.772588722239781
+120,"Buffalo, New York",1,Jan,0,12,1,2.5649493574615367
+121,"Buffalo, New York",1,Feb,1,17,2,2.8903717578961645
+122,"Buffalo, New York",1,Mar,6,5,3,1.791759469228055
+123,"Buffalo, New York",1,Apr,13,9,4,2.302585092994046
+124,"Buffalo, New York",1,May,19,3,5,1.3862943611198906
+125,"Buffalo, New York",1,Jun,24,3,6,1.3862943611198906
+126,"Buffalo, New York",1,Jul,27,1,7,0.6931471805599453
+127,"Buffalo, New York",1,Aug,26,0,8,0.0
+128,"Buffalo, New York",1,Sep,22,3,9,1.3862943611198906
+129,"Buffalo, New York",1,Oct,15,5,10,1.791759469228055
+130,"Buffalo, New York",1,Nov,9,5,11,1.791759469228055
+131,"Buffalo, New York",1,Dec,2,14,12,2.70805020110221
+132,"Buffalo, New York",2,Jan,-8,27,1,3.332204510175204
+133,"Buffalo, New York",2,Feb,-7,29,2,3.4011973816621555
+134,"Buffalo, New York",2,Mar,-3,18,3,2.9444389791664403
+135,"Buffalo, New York",2,Apr,3,11,4,2.4849066497880004
+136,"Buffalo, New York",2,May,9,8,5,2.1972245773362196
+137,"Buffalo, New York",2,Jun,14,6,6,1.9459101490553132
+138,"Buffalo, New York",2,Jul,17,0,7,0.0
+139,"Buffalo, New York",2,Aug,16,6,8,1.9459101490553132
+140,"Buffalo, New York",2,Sep,12,5,9,1.791759469228055
+141,"Buffalo, New York",2,Oct,6,9,10,2.302585092994046
+142,"Buffalo, New York",2,Nov,1,20,11,3.044522437723423
+143,"Buffalo, New York",2,Dec,-4,18,12,2.9444389791664403
+144,"Charlotte, North Carolina",1,Jan,10,10,1,2.3978952727983707
+145,"Charlotte, North Carolina",1,Feb,13,6,2,1.9459101490553132
+146,"Charlotte, North Carolina",1,Mar,17,3,3,1.3862943611198906
+147,"Charlotte, North Carolina",1,Apr,22,5,4,1.791759469228055
+148,"Charlotte, North Carolina",1,May,26,0,5,0.0
+149,"Charlotte, North Carolina",1,Jun,30,1,6,0.6931471805599453
+150,"Charlotte, North Carolina",1,Jul,32,1,7,0.6931471805599453
+151,"Charlotte, North Carolina",1,Aug,31,1,8,0.6931471805599453
+152,"Charlotte, North Carolina",1,Sep,27,0,9,0.0
+153,"Charlotte, North Carolina",1,Oct,22,4,10,1.6094379124341003
+154,"Charlotte, North Carolina",1,Nov,17,8,11,2.1972245773362196
+155,"Charlotte, North Carolina",1,Dec,12,8,12,2.1972245773362196
+156,"Charlotte, North Carolina",2,Jan,-1,24,1,3.2188758248682006
+157,"Charlotte, North Carolina",2,Feb,0,32,2,3.4965075614664802
+158,"Charlotte, North Carolina",2,Mar,4,17,3,2.8903717578961645
+159,"Charlotte, North Carolina",2,Apr,8,6,4,1.9459101490553132
+160,"Charlotte, North Carolina",2,May,13,8,5,2.1972245773362196
+161,"Charlotte, North Carolina",2,Jun,18,4,6,1.6094379124341003
+162,"Charlotte, North Carolina",2,Jul,20,5,7,1.791759469228055
+163,"Charlotte, North Carolina",2,Aug,20,4,8,1.6094379124341003
+164,"Charlotte, North Carolina",2,Sep,16,2,9,1.0986122886681098
+165,"Charlotte, North Carolina",2,Oct,9,8,10,2.1972245773362196
+166,"Charlotte, North Carolina",2,Nov,4,16,11,2.833213344056216
+167,"Charlotte, North Carolina",2,Dec,0,24,12,3.2188758248682006
+168,"Chicago, Illinois",1,Jan,-1,32,1,3.4965075614664802
+169,"Chicago, Illinois",1,Feb,2,17,2,2.8903717578961645
+170,"Chicago, Illinois",1,Mar,8,13,3,2.6390573296152584
+171,"Chicago, Illinois",1,Apr,15,13,4,2.6390573296152584
+172,"Chicago, Illinois",1,May,21,11,5,2.4849066497880004
+173,"Chicago, Illinois",1,Jun,27,7,6,2.0794415416798357
+174,"Chicago, Illinois",1,Jul,29,0,7,0.0
+175,"Chicago, Illinois",1,Aug,28,4,8,1.6094379124341003
+176,"Chicago, Illinois",1,Sep,24,5,9,1.791759469228055
+177,"Chicago, Illinois",1,Oct,17,8,10,2.1972245773362196
+178,"Chicago, Illinois",1,Nov,9,20,11,3.044522437723423
+179,"Chicago, Illinois",1,Dec,2,21,12,3.091042453358316
+180,"Chicago, Illinois",2,Jan,-9,59,1,4.0943445622221
+181,"Chicago, Illinois",2,Feb,-7,33,2,3.5263605246161616
+182,"Chicago, Illinois",2,Mar,-2,38,3,3.6635616461296463
+183,"Chicago, Illinois",2,Apr,4,10,4,2.3978952727983707
+184,"Chicago, Illinois",2,May,9,20,5,3.044522437723423
+185,"Chicago, Illinois",2,Jun,15,11,6,2.4849066497880004
+186,"Chicago, Illinois",2,Jul,18,6,7,1.9459101490553132
+187,"Chicago, Illinois",2,Aug,17,13,8,2.6390573296152584
+188,"Chicago, Illinois",2,Sep,12,17,9,2.8903717578961645
+189,"Chicago, Illinois",2,Oct,6,14,10,2.70805020110221
+190,"Chicago, Illinois",2,Nov,0,22,11,3.1354942159291497
+191,"Chicago, Illinois",2,Dec,-6,37,12,3.6375861597263857
+192,"Cincinnati, Ohio",1,Jan,5,11,1,2.4849066497880004
+193,"Cincinnati, Ohio",1,Feb,7,10,2,2.3978952727983707
+194,"Cincinnati, Ohio",1,Mar,13,6,3,1.9459101490553132
+195,"Cincinnati, Ohio",1,Apr,19,7,4,2.0794415416798357
+196,"Cincinnati, Ohio",1,May,24,4,5,1.6094379124341003
+197,"Cincinnati, Ohio",1,Jun,28,5,6,1.791759469228055
+198,"Cincinnati, Ohio",1,Jul,30,1,7,0.6931471805599453
+199,"Cincinnati, Ohio",1,Aug,30,5,8,1.791759469228055
+200,"Cincinnati, Ohio",1,Sep,26,1,9,0.6931471805599453
+201,"Cincinnati, Ohio",1,Oct,20,5,10,1.791759469228055
+202,"Cincinnati, Ohio",1,Nov,13,4,11,1.6094379124341003
+203,"Cincinnati, Ohio",1,Dec,6,11,12,2.4849066497880004
+204,"Cincinnati, Ohio",2,Jan,-5,20,1,3.044522437723423
+205,"Cincinnati, Ohio",2,Feb,-4,33,2,3.5263605246161616
+206,"Cincinnati, Ohio",2,Mar,0,21,3,3.091042453358316
+207,"Cincinnati, Ohio",2,Apr,6,10,4,2.3978952727983707
+208,"Cincinnati, Ohio",2,May,11,13,5,2.6390573296152584
+209,"Cincinnati, Ohio",2,Jun,16,3,6,1.3862943611198906
+210,"Cincinnati, Ohio",2,Jul,18,6,7,1.9459101490553132
+211,"Cincinnati, Ohio",2,Aug,17,4,8,1.6094379124341003
+212,"Cincinnati, Ohio",2,Sep,13,6,9,1.9459101490553132
+213,"Cincinnati, Ohio",2,Oct,6,12,10,2.5649493574615367
+214,"Cincinnati, Ohio",2,Nov,1,20,11,3.044522437723423
+215,"Cincinnati, Ohio",2,Dec,-3,30,12,3.4339872044851463
+216,"Cleveland, Ohio",1,Jan,1,18,1,2.9444389791664403
+217,"Cleveland, Ohio",1,Feb,3,10,2,2.3978952727983707
+218,"Cleveland, Ohio",1,Mar,8,9,3,2.302585092994046
+219,"Cleveland, Ohio",1,Apr,15,2,4,1.0986122886681098
+220,"Cleveland, Ohio",1,May,21,3,5,1.3862943611198906
+221,"Cleveland, Ohio",1,Jun,26,0,6,0.0
+222,"Cleveland, Ohio",1,Jul,28,1,7,0.6931471805599453
+223,"Cleveland, Ohio",1,Aug,27,0,8,0.0
+224,"Cleveland, Ohio",1,Sep,23,1,9,0.6931471805599453
+225,"Cleveland, Ohio",1,Oct,17,2,10,1.0986122886681098
+226,"Cleveland, Ohio",1,Nov,10,4,11,1.6094379124341003
+227,"Cleveland, Ohio",1,Dec,4,14,12,2.70805020110221
+228,"Cleveland, Ohio",2,Jan,-6,56,1,4.04305126783455
+229,"Cleveland, Ohio",2,Feb,-5,32,2,3.4965075614664802
+230,"Cleveland, Ohio",2,Mar,-1,26,3,3.295836866004329
+231,"Cleveland, Ohio",2,Apr,5,14,4,2.70805020110221
+232,"Cleveland, Ohio",2,May,10,5,5,1.791759469228055
+233,"Cleveland, Ohio",2,Jun,15,2,6,1.0986122886681098
+234,"Cleveland, Ohio",2,Jul,18,3,7,1.3862943611198906
+235,"Cleveland, Ohio",2,Aug,17,3,8,1.3862943611198906
+236,"Cleveland, Ohio",2,Sep,13,2,9,1.0986122886681098
+237,"Cleveland, Ohio",2,Oct,7,9,10,2.302585092994046
+238,"Cleveland, Ohio",2,Nov,3,12,11,2.5649493574615367
+239,"Cleveland, Ohio",2,Dec,-3,31,12,3.4657359027997265
+240,"Columbus, Ohio",1,Jan,3,23,1,3.1780538303479458
+241,"Columbus, Ohio",1,Feb,5,21,2,3.091042453358316
+242,"Columbus, Ohio",1,Mar,11,17,3,2.8903717578961645
+243,"Columbus, Ohio",1,Apr,18,14,4,2.70805020110221
+244,"Columbus, Ohio",1,May,23,10,5,2.3978952727983707
+245,"Columbus, Ohio",1,Jun,28,7,6,2.0794415416798357
+246,"Columbus, Ohio",1,Jul,29,4,7,1.6094379124341003
+247,"Columbus, Ohio",1,Aug,29,12,8,2.5649493574615367
+248,"Columbus, Ohio",1,Sep,25,10,9,2.3978952727983707
+249,"Columbus, Ohio",1,Oct,18,13,10,2.6390573296152584
+250,"Columbus, Ohio",1,Nov,11,10,11,2.3978952727983707
+251,"Columbus, Ohio",1,Dec,5,13,12,2.6390573296152584
+252,"Columbus, Ohio",2,Jan,-5,21,1,3.091042453358316
+253,"Columbus, Ohio",2,Feb,-4,27,2,3.332204510175204
+254,"Columbus, Ohio",2,Mar,0,17,3,2.8903717578961645
+255,"Columbus, Ohio",2,Apr,6,20,4,3.044522437723423
+256,"Columbus, Ohio",2,May,11,17,5,2.8903717578961645
+257,"Columbus, Ohio",2,Jun,16,12,6,2.5649493574615367
+258,"Columbus, Ohio",2,Jul,19,19,7,2.995732273553991
+259,"Columbus, Ohio",2,Aug,18,18,8,2.9444389791664403
+260,"Columbus, Ohio",2,Sep,14,19,9,2.995732273553991
+261,"Columbus, Ohio",2,Oct,7,21,10,3.091042453358316
+262,"Columbus, Ohio",2,Nov,2,23,11,3.1780538303479458
+263,"Columbus, Ohio",2,Dec,-3,28,12,3.367295829986474
+264,"Dallas, Texas",1,Jan,14,9,1,2.302585092994046
+265,"Dallas, Texas",1,Feb,16,6,2,1.9459101490553132
+266,"Dallas, Texas",1,Mar,20,4,3,1.6094379124341003
+267,"Dallas, Texas",1,Apr,25,6,4,1.9459101490553132
+268,"Dallas, Texas",1,May,29,0,5,0.0
+269,"Dallas, Texas",1,Jun,33,8,6,2.1972245773362196
+270,"Dallas, Texas",1,Jul,36,2,7,1.0986122886681098
+271,"Dallas, Texas",1,Aug,36,3,8,1.3862943611198906
+272,"Dallas, Texas",1,Sep,32,1,9,0.6931471805599453
+273,"Dallas, Texas",1,Oct,26,0,10,0.0
+274,"Dallas, Texas",1,Nov,20,5,11,1.791759469228055
+275,"Dallas, Texas",1,Dec,14,9,12,2.302585092994046
+276,"Dallas, Texas",2,Jan,3,21,1,3.091042453358316
+277,"Dallas, Texas",2,Feb,5,17,2,2.8903717578961645
+278,"Dallas, Texas",2,Mar,9,14,3,2.70805020110221
+279,"Dallas, Texas",2,Apr,13,8,4,2.1972245773362196
+280,"Dallas, Texas",2,May,19,9,5,2.302585092994046
+281,"Dallas, Texas",2,Jun,23,8,6,2.1972245773362196
+282,"Dallas, Texas",2,Jul,25,4,7,1.6094379124341003
+283,"Dallas, Texas",2,Aug,25,4,8,1.6094379124341003
+284,"Dallas, Texas",2,Sep,21,5,9,1.791759469228055
+285,"Dallas, Texas",2,Oct,15,9,10,2.302585092994046
+286,"Dallas, Texas",2,Nov,9,19,11,2.995732273553991
+287,"Dallas, Texas",2,Dec,4,13,12,2.6390573296152584
+288,"Denver, Colorado",1,Jan,7,18,1,2.9444389791664403
+289,"Denver, Colorado",1,Feb,8,16,2,2.833213344056216
+290,"Denver, Colorado",1,Mar,12,9,3,2.302585092994046
+291,"Denver, Colorado",1,Apr,16,10,4,2.3978952727983707
+292,"Denver, Colorado",1,May,21,4,5,1.6094379124341003
+293,"Denver, Colorado",1,Jun,27,5,6,1.791759469228055
+294,"Denver, Colorado",1,Jul,31,2,7,1.0986122886681098
+295,"Denver, Colorado",1,Aug,30,3,8,1.3862943611198906
+296,"Denver, Colorado",1,Sep,25,4,9,1.6094379124341003
+297,"Denver, Colorado",1,Oct,18,6,10,1.9459101490553132
+298,"Denver, Colorado",1,Nov,11,9,11,2.302585092994046
+299,"Denver, Colorado",1,Dec,6,14,12,2.70805020110221
+300,"Denver, Colorado",2,Jan,-8,38,1,3.6635616461296463
+301,"Denver, Colorado",2,Feb,-7,37,2,3.6375861597263857
+302,"Denver, Colorado",2,Mar,-3,25,3,3.258096538021482
+303,"Denver, Colorado",2,Apr,1,18,4,2.9444389791664403
+304,"Denver, Colorado",2,May,7,15,5,2.772588722239781
+305,"Denver, Colorado",2,Jun,12,13,6,2.6390573296152584
+306,"Denver, Colorado",2,Jul,15,9,7,2.302585092994046
+307,"Denver, Colorado",2,Aug,14,12,8,2.5649493574615367
+308,"Denver, Colorado",2,Sep,9,18,9,2.9444389791664403
+309,"Denver, Colorado",2,Oct,2,15,10,2.772588722239781
+310,"Denver, Colorado",2,Nov,-4,28,11,3.367295829986474
+311,"Denver, Colorado",2,Dec,-9,37,12,3.6375861597263857
+312,"Detroit, Michigan",1,Jan,0,16,1,2.833213344056216
+313,"Detroit, Michigan",1,Feb,2,18,2,2.9444389791664403
+314,"Detroit, Michigan",1,Mar,8,7,3,2.0794415416798357
+315,"Detroit, Michigan",1,Apr,15,4,4,1.6094379124341003
+316,"Detroit, Michigan",1,May,21,3,5,1.3862943611198906
+317,"Detroit, Michigan",1,Jun,26,1,6,0.6931471805599453
+318,"Detroit, Michigan",1,Jul,29,0,7,0.0
+319,"Detroit, Michigan",1,Aug,27,0,8,0.0
+320,"Detroit, Michigan",1,Sep,23,0,9,0.0
+321,"Detroit, Michigan",1,Oct,16,3,10,1.3862943611198906
+322,"Detroit, Michigan",1,Nov,9,8,11,2.1972245773362196
+323,"Detroit, Michigan",1,Dec,2,17,12,2.8903717578961645
+324,"Detroit, Michigan",2,Jan,-7,52,1,3.970291913552122
+325,"Detroit, Michigan",2,Feb,-6,40,2,3.713572066704308
+326,"Detroit, Michigan",2,Mar,-2,29,3,3.4011973816621555
+327,"Detroit, Michigan",2,Apr,4,7,4,2.0794415416798357
+328,"Detroit, Michigan",2,May,10,8,5,2.1972245773362196
+329,"Detroit, Michigan",2,Jun,15,3,6,1.3862943611198906
+330,"Detroit, Michigan",2,Jul,18,0,7,0.0
+331,"Detroit, Michigan",2,Aug,17,3,8,1.3862943611198906
+332,"Detroit, Michigan",2,Sep,13,1,9,0.6931471805599453
+333,"Detroit, Michigan",2,Oct,6,10,10,2.3978952727983707
+334,"Detroit, Michigan",2,Nov,1,19,11,2.995732273553991
+335,"Detroit, Michigan",2,Dec,-4,31,12,3.4657359027997265
+336,"Hartford, Connecticut",1,Jan,1,23,1,3.1780538303479458
+337,"Hartford, Connecticut",1,Feb,4,18,2,2.9444389791664403
+338,"Hartford, Connecticut",1,Mar,9,11,3,2.4849066497880004
+339,"Hartford, Connecticut",1,Apr,16,7,4,2.0794415416798357
+340,"Hartford, Connecticut",1,May,22,1,5,0.6931471805599453
+341,"Hartford, Connecticut",1,Jun,26,4,6,1.6094379124341003
+342,"Hartford, Connecticut",1,Jul,29,3,7,1.3862943611198906
+343,"Hartford, Connecticut",1,Aug,28,5,8,1.791759469228055
+344,"Hartford, Connecticut",1,Sep,24,9,9,2.302585092994046
+345,"Hartford, Connecticut",1,Oct,17,4,10,1.6094379124341003
+346,"Hartford, Connecticut",1,Nov,11,7,11,2.0794415416798357
+347,"Hartford, Connecticut",1,Dec,4,12,12,2.5649493574615367
+348,"Hartford, Connecticut",2,Jan,-8,21,1,3.091042453358316
+349,"Hartford, Connecticut",2,Feb,-6,25,2,3.258096538021482
+350,"Hartford, Connecticut",2,Mar,-2,26,3,3.295836866004329
+351,"Hartford, Connecticut",2,Apr,4,15,4,2.772588722239781
+352,"Hartford, Connecticut",2,May,9,15,5,2.772588722239781
+353,"Hartford, Connecticut",2,Jun,14,8,6,2.1972245773362196
+354,"Hartford, Connecticut",2,Jul,17,10,7,2.3978952727983707
+355,"Hartford, Connecticut",2,Aug,16,4,8,1.6094379124341003
+356,"Hartford, Connecticut",2,Sep,12,16,9,2.833213344056216
+357,"Hartford, Connecticut",2,Oct,5,17,10,2.8903717578961645
+358,"Hartford, Connecticut",2,Nov,1,27,11,3.332204510175204
+359,"Hartford, Connecticut",2,Dec,-5,27,12,3.332204510175204
+360,"Houston, Texas",1,Jan,17,10,1,2.3978952727983707
+361,"Houston, Texas",1,Feb,19,8,2,2.1972245773362196
+362,"Houston, Texas",1,Mar,23,4,3,1.6094379124341003
+363,"Houston, Texas",1,Apr,26,1,4,0.6931471805599453
+364,"Houston, Texas",1,May,30,8,5,2.1972245773362196
+365,"Houston, Texas",1,Jun,33,8,6,2.1972245773362196
+366,"Houston, Texas",1,Jul,34,4,7,1.6094379124341003
+367,"Houston, Texas",1,Aug,35,5,8,1.791759469228055
+368,"Houston, Texas",1,Sep,32,3,9,1.3862943611198906
+369,"Houston, Texas",1,Oct,28,4,10,1.6094379124341003
+370,"Houston, Texas",1,Nov,23,9,11,2.302585092994046
+371,"Houston, Texas",1,Dec,18,12,12,2.5649493574615367
+372,"Houston, Texas",2,Jan,6,16,1,2.833213344056216
+373,"Houston, Texas",2,Feb,8,13,2,2.6390573296152584
+374,"Houston, Texas",2,Mar,11,16,3,2.833213344056216
+375,"Houston, Texas",2,Apr,15,7,4,2.0794415416798357
+376,"Houston, Texas",2,May,20,11,5,2.4849066497880004
+377,"Houston, Texas",2,Jun,23,8,6,2.1972245773362196
+378,"Houston, Texas",2,Jul,24,7,7,2.0794415416798357
+379,"Houston, Texas",2,Aug,24,7,8,2.0794415416798357
+380,"Houston, Texas",2,Sep,21,9,9,2.302585092994046
+381,"Houston, Texas",2,Oct,16,10,10,2.3978952727983707
+382,"Houston, Texas",2,Nov,11,7,11,2.0794415416798357
+383,"Houston, Texas",2,Dec,7,27,12,3.332204510175204
+384,"Indianapolis, Indiana",1,Jan,2,9,1,2.302585092994046
+385,"Indianapolis, Indiana",1,Feb,5,5,2,1.791759469228055
+386,"Indianapolis, Indiana",1,Mar,11,4,3,1.6094379124341003
+387,"Indianapolis, Indiana",1,Apr,17,5,4,1.791759469228055
+388,"Indianapolis, Indiana",1,May,23,0,5,0.0
+389,"Indianapolis, Indiana",1,Jun,28,0,6,0.0
+390,"Indianapolis, Indiana",1,Jul,29,0,7,0.0
+391,"Indianapolis, Indiana",1,Aug,29,0,8,0.0
+392,"Indianapolis, Indiana",1,Sep,25,0,9,0.0
+393,"Indianapolis, Indiana",1,Oct,19,3,10,1.3862943611198906
+394,"Indianapolis, Indiana",1,Nov,11,7,11,2.0794415416798357
+395,"Indianapolis, Indiana",1,Dec,4,20,12,3.044522437723423
+396,"Indianapolis, Indiana",2,Jan,-6,38,1,3.6635616461296463
+397,"Indianapolis, Indiana",2,Feb,-5,50,2,3.9318256327243257
+398,"Indianapolis, Indiana",2,Mar,0,23,3,3.1780538303479458
+399,"Indianapolis, Indiana",2,Apr,6,4,4,1.6094379124341003
+400,"Indianapolis, Indiana",2,May,11,4,5,1.6094379124341003
+401,"Indianapolis, Indiana",2,Jun,17,2,6,1.0986122886681098
+402,"Indianapolis, Indiana",2,Jul,19,0,7,0.0
+403,"Indianapolis, Indiana",2,Aug,18,1,8,0.6931471805599453
+404,"Indianapolis, Indiana",2,Sep,13,4,9,1.6094379124341003
+405,"Indianapolis, Indiana",2,Oct,7,11,10,2.4849066497880004
+406,"Indianapolis, Indiana",2,Nov,2,19,11,2.995732273553991
+407,"Indianapolis, Indiana",2,Dec,-4,27,12,3.332204510175204
+408,"Jacksonville, Florida",1,Jan,18,5,1,1.791759469228055
+409,"Jacksonville, Florida",1,Feb,20,3,2,1.3862943611198906
+410,"Jacksonville, Florida",1,Mar,23,2,3,1.0986122886681098
+411,"Jacksonville, Florida",1,Apr,26,2,4,1.0986122886681098
+412,"Jacksonville, Florida",1,May,30,0,5,0.0
+413,"Jacksonville, Florida",1,Jun,32,0,6,0.0
+414,"Jacksonville, Florida",1,Jul,33,1,7,0.6931471805599453
+415,"Jacksonville, Florida",1,Aug,33,0,8,0.0
+416,"Jacksonville, Florida",1,Sep,31,1,9,0.6931471805599453
+417,"Jacksonville, Florida",1,Oct,27,1,10,0.6931471805599453
+418,"Jacksonville, Florida",1,Nov,23,2,11,1.0986122886681098
+419,"Jacksonville, Florida",1,Dec,19,2,12,1.0986122886681098
+420,"Jacksonville, Florida",2,Jan,5,7,1,2.0794415416798357
+421,"Jacksonville, Florida",2,Feb,7,12,2,2.5649493574615367
+422,"Jacksonville, Florida",2,Mar,10,8,3,2.1972245773362196
+423,"Jacksonville, Florida",2,Apr,13,5,4,1.791759469228055
+424,"Jacksonville, Florida",2,May,17,2,5,1.0986122886681098
+425,"Jacksonville, Florida",2,Jun,21,1,6,0.6931471805599453
+426,"Jacksonville, Florida",2,Jul,23,1,7,0.6931471805599453
+427,"Jacksonville, Florida",2,Aug,23,2,8,1.0986122886681098
+428,"Jacksonville, Florida",2,Sep,21,2,9,1.0986122886681098
+429,"Jacksonville, Florida",2,Oct,16,0,10,0.0
+430,"Jacksonville, Florida",2,Nov,11,3,11,1.3862943611198906
+431,"Jacksonville, Florida",2,Dec,7,4,12,1.6094379124341003
+432,"Kansas City, Missouri",1,Jan,4,20,1,3.044522437723423
+433,"Kansas City, Missouri",1,Feb,7,14,2,2.70805020110221
+434,"Kansas City, Missouri",1,Mar,13,6,3,1.9459101490553132
+435,"Kansas City, Missouri",1,Apr,19,2,4,1.0986122886681098
+436,"Kansas City, Missouri",1,May,24,4,5,1.6094379124341003
+437,"Kansas City, Missouri",1,Jun,29,0,6,0.0
+438,"Kansas City, Missouri",1,Jul,32,1,7,0.6931471805599453
+439,"Kansas City, Missouri",1,Aug,31,3,8,1.3862943611198906
+440,"Kansas City, Missouri",1,Sep,27,1,9,0.6931471805599453
+441,"Kansas City, Missouri",1,Oct,20,3,10,1.3862943611198906
+442,"Kansas City, Missouri",1,Nov,12,6,11,1.9459101490553132
+443,"Kansas City, Missouri",1,Dec,5,14,12,2.70805020110221
+444,"Kansas City, Missouri",2,Jan,-5,31,1,3.4657359027997265
+445,"Kansas City, Missouri",2,Feb,-3,32,2,3.4965075614664802
+446,"Kansas City, Missouri",2,Mar,2,15,3,2.772588722239781
+447,"Kansas City, Missouri",2,Apr,8,6,4,1.9459101490553132
+448,"Kansas City, Missouri",2,May,14,7,5,2.0794415416798357
+449,"Kansas City, Missouri",2,Jun,19,1,6,0.6931471805599453
+450,"Kansas City, Missouri",2,Jul,22,1,7,0.6931471805599453
+451,"Kansas City, Missouri",2,Aug,21,3,8,1.3862943611198906
+452,"Kansas City, Missouri",2,Sep,16,4,9,1.6094379124341003
+453,"Kansas City, Missouri",2,Oct,9,6,10,1.9459101490553132
+454,"Kansas City, Missouri",2,Nov,3,22,11,3.1354942159291497
+455,"Kansas City, Missouri",2,Dec,-4,27,12,3.332204510175204
+456,"Las Vegas, Nevada",1,Jan,14,12,1,2.5649493574615367
+457,"Las Vegas, Nevada",1,Feb,17,6,2,1.9459101490553132
+458,"Las Vegas, Nevada",1,Mar,21,2,3,1.0986122886681098
+459,"Las Vegas, Nevada",1,Apr,26,6,4,1.9459101490553132
+460,"Las Vegas, Nevada",1,May,32,1,5,0.6931471805599453
+461,"Las Vegas, Nevada",1,Jun,37,0,6,0.0
+462,"Las Vegas, Nevada",1,Jul,40,0,7,0.0
+463,"Las Vegas, Nevada",1,Aug,39,0,8,0.0
+464,"Las Vegas, Nevada",1,Sep,34,2,9,1.0986122886681098
+465,"Las Vegas, Nevada",1,Oct,27,1,10,0.6931471805599453
+466,"Las Vegas, Nevada",1,Nov,19,9,11,2.302585092994046
+467,"Las Vegas, Nevada",1,Dec,14,5,12,1.791759469228055
+468,"Las Vegas, Nevada",2,Jan,4,16,1,2.833213344056216
+469,"Las Vegas, Nevada",2,Feb,6,13,2,2.6390573296152584
+470,"Las Vegas, Nevada",2,Mar,10,12,3,2.5649493574615367
+471,"Las Vegas, Nevada",2,Apr,13,10,4,2.3978952727983707
+472,"Las Vegas, Nevada",2,May,19,6,5,1.9459101490553132
+473,"Las Vegas, Nevada",2,Jun,24,8,6,2.1972245773362196
+474,"Las Vegas, Nevada",2,Jul,27,3,7,1.3862943611198906
+475,"Las Vegas, Nevada",2,Aug,26,2,8,1.0986122886681098
+476,"Las Vegas, Nevada",2,Sep,22,3,9,1.3862943611198906
+477,"Las Vegas, Nevada",2,Oct,15,7,10,2.0794415416798357
+478,"Las Vegas, Nevada",2,Nov,8,8,11,2.1972245773362196
+479,"Las Vegas, Nevada",2,Dec,4,17,12,2.8903717578961645
+480,"Los Angeles, California",1,Jan,20,3,1,1.3862943611198906
+481,"Los Angeles, California",1,Feb,20,0,2,0.0
+482,"Los Angeles, California",1,Mar,21,0,3,0.0
+483,"Los Angeles, California",1,Apr,23,1,4,0.6931471805599453
+484,"Los Angeles, California",1,May,24,1,5,0.6931471805599453
+485,"Los Angeles, California",1,Jun,26,0,6,0.0
+486,"Los Angeles, California",1,Jul,28,0,7,0.0
+487,"Los Angeles, California",1,Aug,29,0,8,0.0
+488,"Los Angeles, California",1,Sep,28,2,9,1.0986122886681098
+489,"Los Angeles, California",1,Oct,26,1,10,0.6931471805599453
+490,"Los Angeles, California",1,Nov,23,0,11,0.0
+491,"Los Angeles, California",1,Dec,20,1,12,0.6931471805599453
+492,"Los Angeles, California",2,Jan,9,3,1,1.3862943611198906
+493,"Los Angeles, California",2,Feb,10,3,2,1.3862943611198906
+494,"Los Angeles, California",2,Mar,11,2,3,1.0986122886681098
+495,"Los Angeles, California",2,Apr,12,2,4,1.0986122886681098
+496,"Los Angeles, California",2,May,14,6,5,1.9459101490553132
+497,"Los Angeles, California",2,Jun,16,1,6,0.6931471805599453
+498,"Los Angeles, California",2,Jul,18,2,7,1.0986122886681098
+499,"Los Angeles, California",2,Aug,18,1,8,0.6931471805599453
+500,"Los Angeles, California",2,Sep,17,0,9,0.0
+501,"Los Angeles, California",2,Oct,15,2,10,1.0986122886681098
+502,"Los Angeles, California",2,Nov,11,1,11,0.6931471805599453
+503,"Los Angeles, California",2,Dec,9,6,12,1.9459101490553132
+504,"Louisville, Kentucky",1,Jan,6,18,1,2.9444389791664403
+505,"Louisville, Kentucky",1,Feb,9,11,2,2.4849066497880004
+506,"Louisville, Kentucky",1,Mar,14,6,3,1.9459101490553132
+507,"Louisville, Kentucky",1,Apr,20,1,4,0.6931471805599453
+508,"Louisville, Kentucky",1,May,25,0,5,0.0
+509,"Louisville, Kentucky",1,Jun,30,0,6,0.0
+510,"Louisville, Kentucky",1,Jul,32,0,7,0.0
+511,"Louisville, Kentucky",1,Aug,31,0,8,0.0
+512,"Louisville, Kentucky",1,Sep,28,2,9,1.0986122886681098
+513,"Louisville, Kentucky",1,Oct,21,3,10,1.3862943611198906
+514,"Louisville, Kentucky",1,Nov,14,6,11,1.9459101490553132
+515,"Louisville, Kentucky",1,Dec,8,8,12,2.1972245773362196
+516,"Louisville, Kentucky",2,Jan,-3,42,1,3.7612001156935624
+517,"Louisville, Kentucky",2,Feb,-1,29,2,3.4011973816621555
+518,"Louisville, Kentucky",2,Mar,3,22,3,3.1354942159291497
+519,"Louisville, Kentucky",2,Apr,9,12,4,2.5649493574615367
+520,"Louisville, Kentucky",2,May,14,4,5,1.6094379124341003
+521,"Louisville, Kentucky",2,Jun,19,4,6,1.6094379124341003
+522,"Louisville, Kentucky",2,Jul,21,3,7,1.3862943611198906
+523,"Louisville, Kentucky",2,Aug,20,2,8,1.0986122886681098
+524,"Louisville, Kentucky",2,Sep,16,7,9,2.0794415416798357
+525,"Louisville, Kentucky",2,Oct,9,6,10,1.9459101490553132
+526,"Louisville, Kentucky",2,Nov,4,11,11,2.4849066497880004
+527,"Louisville, Kentucky",2,Dec,-1,32,12,3.4965075614664802
+528,"Memphis, Tennessee",1,Jan,10,3,1,1.3862943611198906
+529,"Memphis, Tennessee",1,Feb,13,3,2,1.3862943611198906
+530,"Memphis, Tennessee",1,Mar,18,3,3,1.3862943611198906
+531,"Memphis, Tennessee",1,Apr,23,0,4,0.0
+532,"Memphis, Tennessee",1,May,27,0,5,0.0
+533,"Memphis, Tennessee",1,Jun,32,0,6,0.0
+534,"Memphis, Tennessee",1,Jul,33,0,7,0.0
+535,"Memphis, Tennessee",1,Aug,33,0,8,0.0
+536,"Memphis, Tennessee",1,Sep,30,0,9,0.0
+537,"Memphis, Tennessee",1,Oct,24,1,10,0.6931471805599453
+538,"Memphis, Tennessee",1,Nov,17,0,11,0.0
+539,"Memphis, Tennessee",1,Dec,11,6,12,1.9459101490553132
+540,"Memphis, Tennessee",2,Jan,0,10,1,2.3978952727983707
+541,"Memphis, Tennessee",2,Feb,2,12,2,2.5649493574615367
+542,"Memphis, Tennessee",2,Mar,7,11,3,2.4849066497880004
+543,"Memphis, Tennessee",2,Apr,12,2,4,1.0986122886681098
+544,"Memphis, Tennessee",2,May,17,1,5,0.6931471805599453
+545,"Memphis, Tennessee",2,Jun,21,0,6,0.0
+546,"Memphis, Tennessee",2,Jul,23,0,7,0.0
+547,"Memphis, Tennessee",2,Aug,23,2,8,1.0986122886681098
+548,"Memphis, Tennessee",2,Sep,18,2,9,1.0986122886681098
+549,"Memphis, Tennessee",2,Oct,12,0,10,0.0
+550,"Memphis, Tennessee",2,Nov,7,5,11,1.791759469228055
+551,"Memphis, Tennessee",2,Dec,2,12,12,2.5649493574615367
+552,"Miami, Florida",1,Jan,25,1,1,0.6931471805599453
+553,"Miami, Florida",1,Feb,26,0,2,0.0
+554,"Miami, Florida",1,Mar,27,2,3,1.0986122886681098
+555,"Miami, Florida",1,Apr,28,3,4,1.3862943611198906
+556,"Miami, Florida",1,May,31,0,5,0.0
+557,"Miami, Florida",1,Jun,32,3,6,1.3862943611198906
+558,"Miami, Florida",1,Jul,33,1,7,0.6931471805599453
+559,"Miami, Florida",1,Aug,33,0,8,0.0
+560,"Miami, Florida",1,Sep,32,0,9,0.0
+561,"Miami, Florida",1,Oct,30,1,10,0.6931471805599453
+562,"Miami, Florida",1,Nov,28,0,11,0.0
+563,"Miami, Florida",1,Dec,26,1,12,0.6931471805599453
+564,"Miami, Florida",2,Jan,16,5,1,1.791759469228055
+565,"Miami, Florida",2,Feb,17,9,2,2.302585092994046
+566,"Miami, Florida",2,Mar,18,1,3,0.6931471805599453
+567,"Miami, Florida",2,Apr,20,5,4,1.791759469228055
+568,"Miami, Florida",2,May,23,6,5,1.9459101490553132
+569,"Miami, Florida",2,Jun,24,1,6,0.6931471805599453
+570,"Miami, Florida",2,Jul,25,4,7,1.6094379124341003
+571,"Miami, Florida",2,Aug,25,0,8,0.0
+572,"Miami, Florida",2,Sep,25,1,9,0.6931471805599453
+573,"Miami, Florida",2,Oct,23,7,10,2.0794415416798357
+574,"Miami, Florida",2,Nov,20,3,11,1.3862943611198906
+575,"Miami, Florida",2,Dec,17,0,12,0.0
+576,"Milwaukee, Wisconsin",1,Jan,-2,38,1,3.6635616461296463
+577,"Milwaukee, Wisconsin",1,Feb,0,24,2,3.2188758248682006
+578,"Milwaukee, Wisconsin",1,Mar,6,12,3,2.5649493574615367
+579,"Milwaukee, Wisconsin",1,Apr,12,7,4,2.0794415416798357
+580,"Milwaukee, Wisconsin",1,May,18,2,5,1.0986122886681098
+581,"Milwaukee, Wisconsin",1,Jun,24,1,6,0.6931471805599453
+582,"Milwaukee, Wisconsin",1,Jul,27,1,7,0.6931471805599453
+583,"Milwaukee, Wisconsin",1,Aug,26,1,8,0.6931471805599453
+584,"Milwaukee, Wisconsin",1,Sep,22,0,9,0.0
+585,"Milwaukee, Wisconsin",1,Oct,15,3,10,1.3862943611198906
+586,"Milwaukee, Wisconsin",1,Nov,8,7,11,2.0794415416798357
+587,"Milwaukee, Wisconsin",1,Dec,0,31,12,3.4657359027997265
+588,"Milwaukee, Wisconsin",2,Jan,-9,56,1,4.04305126783455
+589,"Milwaukee, Wisconsin",2,Feb,-7,56,2,4.04305126783455
+590,"Milwaukee, Wisconsin",2,Mar,-2,31,3,3.4657359027997265
+591,"Milwaukee, Wisconsin",2,Apr,3,28,4,3.367295829986474
+592,"Milwaukee, Wisconsin",2,May,8,10,5,2.3978952727983707
+593,"Milwaukee, Wisconsin",2,Jun,14,5,6,1.791759469228055
+594,"Milwaukee, Wisconsin",2,Jul,18,3,7,1.3862943611198906
+595,"Milwaukee, Wisconsin",2,Aug,17,3,8,1.3862943611198906
+596,"Milwaukee, Wisconsin",2,Sep,13,8,9,2.1972245773362196
+597,"Milwaukee, Wisconsin",2,Oct,6,6,10,1.9459101490553132
+598,"Milwaukee, Wisconsin",2,Nov,0,32,11,3.4965075614664802
+599,"Milwaukee, Wisconsin",2,Dec,-7,63,12,4.1588830833596715
+600,"Minneapolis, Minnesota",1,Jan,-5,25,1,3.258096538021482
+601,"Minneapolis, Minnesota",1,Feb,-2,22,2,3.1354942159291497
+602,"Minneapolis, Minnesota",1,Mar,5,8,3,2.1972245773362196
+603,"Minneapolis, Minnesota",1,Apr,14,10,4,2.3978952727983707
+604,"Minneapolis, Minnesota",1,May,21,1,5,0.6931471805599453
+605,"Minneapolis, Minnesota",1,Jun,26,1,6,0.6931471805599453
+606,"Minneapolis, Minnesota",1,Jul,29,2,7,1.0986122886681098
+607,"Minneapolis, Minnesota",1,Aug,27,0,8,0.0
+608,"Minneapolis, Minnesota",1,Sep,22,8,9,2.1972245773362196
+609,"Minneapolis, Minnesota",1,Oct,14,9,10,2.302585092994046
+610,"Minneapolis, Minnesota",1,Nov,5,14,11,2.70805020110221
+611,"Minneapolis, Minnesota",1,Dec,-3,20,12,3.044522437723423
+612,"Minneapolis, Minnesota",2,Jan,-14,58,1,4.07753744390572
+613,"Minneapolis, Minnesota",2,Feb,-11,51,2,3.9512437185814275
+614,"Minneapolis, Minnesota",2,Mar,-4,32,3,3.4965075614664802
+615,"Minneapolis, Minnesota",2,Apr,3,17,4,2.8903717578961645
+616,"Minneapolis, Minnesota",2,May,9,11,5,2.4849066497880004
+617,"Minneapolis, Minnesota",2,Jun,15,4,6,1.6094379124341003
+618,"Minneapolis, Minnesota",2,Jul,18,9,7,2.302585092994046
+619,"Minneapolis, Minnesota",2,Aug,17,10,8,2.3978952727983707
+620,"Minneapolis, Minnesota",2,Sep,11,6,9,1.9459101490553132
+621,"Minneapolis, Minnesota",2,Oct,4,11,10,2.4849066497880004
+622,"Minneapolis, Minnesota",2,Nov,-3,18,11,2.9444389791664403
+623,"Minneapolis, Minnesota",2,Dec,-11,45,12,3.828641396489095
+624,"Nashville, Tennessee",1,Jan,8,7,1,2.0794415416798357
+625,"Nashville, Tennessee",1,Feb,11,10,2,2.3978952727983707
+626,"Nashville, Tennessee",1,Mar,16,1,3,0.6931471805599453
+627,"Nashville, Tennessee",1,Apr,21,3,4,1.3862943611198906
+628,"Nashville, Tennessee",1,May,26,1,5,0.6931471805599453
+629,"Nashville, Tennessee",1,Jun,30,2,6,1.0986122886681098
+630,"Nashville, Tennessee",1,Jul,32,2,7,1.0986122886681098
+631,"Nashville, Tennessee",1,Aug,32,1,8,0.6931471805599453
+632,"Nashville, Tennessee",1,Sep,28,1,9,0.6931471805599453
+633,"Nashville, Tennessee",1,Oct,22,1,10,0.6931471805599453
+634,"Nashville, Tennessee",1,Nov,16,5,11,1.791759469228055
+635,"Nashville, Tennessee",1,Dec,10,11,12,2.4849066497880004
+636,"Nashville, Tennessee",2,Jan,-2,19,1,2.995732273553991
+637,"Nashville, Tennessee",2,Feb,0,16,2,2.833213344056216
+638,"Nashville, Tennessee",2,Mar,4,18,3,2.9444389791664403
+639,"Nashville, Tennessee",2,Apr,9,12,4,2.5649493574615367
+640,"Nashville, Tennessee",2,May,14,3,5,1.3862943611198906
+641,"Nashville, Tennessee",2,Jun,19,4,6,1.6094379124341003
+642,"Nashville, Tennessee",2,Jul,21,3,7,1.3862943611198906
+643,"Nashville, Tennessee",2,Aug,20,2,8,1.0986122886681098
+644,"Nashville, Tennessee",2,Sep,16,6,9,1.9459101490553132
+645,"Nashville, Tennessee",2,Oct,9,12,10,2.5649493574615367
+646,"Nashville, Tennessee",2,Nov,4,16,11,2.833213344056216
+647,"Nashville, Tennessee",2,Dec,0,16,12,2.833213344056216
+648,"New Orleans, Louisiana",1,Jan,17,5,1,1.791759469228055
+649,"New Orleans, Louisiana",1,Feb,19,3,2,1.3862943611198906
+650,"New Orleans, Louisiana",1,Mar,22,3,3,1.3862943611198906
+651,"New Orleans, Louisiana",1,Apr,26,1,4,0.6931471805599453
+652,"New Orleans, Louisiana",1,May,30,2,5,1.0986122886681098
+653,"New Orleans, Louisiana",1,Jun,32,2,6,1.0986122886681098
+654,"New Orleans, Louisiana",1,Jul,33,0,7,0.0
+655,"New Orleans, Louisiana",1,Aug,33,0,8,0.0
+656,"New Orleans, Louisiana",1,Sep,31,1,9,0.6931471805599453
+657,"New Orleans, Louisiana",1,Oct,27,1,10,0.6931471805599453
+658,"New Orleans, Louisiana",1,Nov,22,4,11,1.6094379124341003
+659,"New Orleans, Louisiana",1,Dec,18,2,12,1.0986122886681098
+660,"New Orleans, Louisiana",2,Jan,7,6,1,1.9459101490553132
+661,"New Orleans, Louisiana",2,Feb,9,16,2,2.833213344056216
+662,"New Orleans, Louisiana",2,Mar,12,2,3,1.0986122886681098
+663,"New Orleans, Louisiana",2,Apr,16,5,4,1.791759469228055
+664,"New Orleans, Louisiana",2,May,20,1,5,0.6931471805599453
+665,"New Orleans, Louisiana",2,Jun,23,2,6,1.0986122886681098
+666,"New Orleans, Louisiana",2,Jul,24,1,7,0.6931471805599453
+667,"New Orleans, Louisiana",2,Aug,24,3,8,1.3862943611198906
+668,"New Orleans, Louisiana",2,Sep,22,4,9,1.6094379124341003
+669,"New Orleans, Louisiana",2,Oct,17,3,10,1.3862943611198906
+670,"New Orleans, Louisiana",2,Nov,12,3,11,1.3862943611198906
+671,"New Orleans, Louisiana",2,Dec,8,12,12,2.5649493574615367
+672,"New York, New York",1,Jan,4,10,1,2.3978952727983707
+673,"New York, New York",1,Feb,5,9,2,2.302585092994046
+674,"New York, New York",1,Mar,10,4,3,1.6094379124341003
+675,"New York, New York",1,Apr,16,0,4,0.0
+676,"New York, New York",1,May,22,1,5,0.6931471805599453
+677,"New York, New York",1,Jun,26,0,6,0.0
+678,"New York, New York",1,Jul,29,0,7,0.0
+679,"New York, New York",1,Aug,28,0,8,0.0
+680,"New York, New York",1,Sep,24,1,9,0.6931471805599453
+681,"New York, New York",1,Oct,18,2,10,1.0986122886681098
+682,"New York, New York",1,Nov,12,2,11,1.0986122886681098
+683,"New York, New York",1,Dec,6,7,12,2.0794415416798357
+684,"New York, New York",2,Jan,-3,35,1,3.58351893845611
+685,"New York, New York",2,Feb,-2,28,2,3.367295829986474
+686,"New York, New York",2,Mar,2,12,3,2.5649493574615367
+687,"New York, New York",2,Apr,7,5,4,1.791759469228055
+688,"New York, New York",2,May,12,10,5,2.3978952727983707
+689,"New York, New York",2,Jun,18,2,6,1.0986122886681098
+690,"New York, New York",2,Jul,20,2,7,1.0986122886681098
+691,"New York, New York",2,Aug,20,0,8,0.0
+692,"New York, New York",2,Sep,16,3,9,1.3862943611198906
+693,"New York, New York",2,Oct,10,7,10,2.0794415416798357
+694,"New York, New York",2,Nov,5,7,11,2.0794415416798357
+695,"New York, New York",2,Dec,0,22,12,3.1354942159291497
+696,"Oklahoma City, Oklahoma",1,Jan,10,17,1,2.8903717578961645
+697,"Oklahoma City, Oklahoma",1,Feb,13,13,2,2.6390573296152584
+698,"Oklahoma City, Oklahoma",1,Mar,17,5,3,1.791759469228055
+699,"Oklahoma City, Oklahoma",1,Apr,22,9,4,2.302585092994046
+700,"Oklahoma City, Oklahoma",1,May,27,9,5,2.302585092994046
+701,"Oklahoma City, Oklahoma",1,Jun,31,5,6,1.791759469228055
+702,"Oklahoma City, Oklahoma",1,Jul,34,5,7,1.791759469228055
+703,"Oklahoma City, Oklahoma",1,Aug,34,5,8,1.791759469228055
+704,"Oklahoma City, Oklahoma",1,Sep,29,7,9,2.0794415416798357
+705,"Oklahoma City, Oklahoma",1,Oct,23,7,10,2.0794415416798357
+706,"Oklahoma City, Oklahoma",1,Nov,16,10,11,2.3978952727983707
+707,"Oklahoma City, Oklahoma",1,Dec,10,15,12,2.772588722239781
+708,"Oklahoma City, Oklahoma",2,Jan,-2,17,1,2.8903717578961645
+709,"Oklahoma City, Oklahoma",2,Feb,0,17,2,2.8903717578961645
+710,"Oklahoma City, Oklahoma",2,Mar,5,10,3,2.3978952727983707
+711,"Oklahoma City, Oklahoma",2,Apr,10,10,4,2.3978952727983707
+712,"Oklahoma City, Oklahoma",2,May,15,11,5,2.4849066497880004
+713,"Oklahoma City, Oklahoma",2,Jun,20,11,6,2.4849066497880004
+714,"Oklahoma City, Oklahoma",2,Jul,22,15,7,2.772588722239781
+715,"Oklahoma City, Oklahoma",2,Aug,22,12,8,2.5649493574615367
+716,"Oklahoma City, Oklahoma",2,Sep,17,10,9,2.3978952727983707
+717,"Oklahoma City, Oklahoma",2,Oct,11,10,10,2.3978952727983707
+718,"Oklahoma City, Oklahoma",2,Nov,4,17,11,2.8903717578961645
+719,"Oklahoma City, Oklahoma",2,Dec,-1,23,12,3.1780538303479458
+720,"Orlando, Florida",1,Jan,22,6,1,1.9459101490553132
+721,"Orlando, Florida",1,Feb,23,3,2,1.3862943611198906
+722,"Orlando, Florida",1,Mar,26,1,3,0.6931471805599453
+723,"Orlando, Florida",1,Apr,28,3,4,1.3862943611198906
+724,"Orlando, Florida",1,May,31,0,5,0.0
+725,"Orlando, Florida",1,Jun,33,2,6,1.0986122886681098
+726,"Orlando, Florida",1,Jul,33,1,7,0.6931471805599453
+727,"Orlando, Florida",1,Aug,33,4,8,1.6094379124341003
+728,"Orlando, Florida",1,Sep,32,1,9,0.6931471805599453
+729,"Orlando, Florida",1,Oct,29,4,10,1.6094379124341003
+730,"Orlando, Florida",1,Nov,26,6,11,1.9459101490553132
+731,"Orlando, Florida",1,Dec,23,7,12,2.0794415416798357
+732,"Orlando, Florida",2,Jan,10,13,1,2.6390573296152584
+733,"Orlando, Florida",2,Feb,11,6,2,1.9459101490553132
+734,"Orlando, Florida",2,Mar,13,7,3,2.0794415416798357
+735,"Orlando, Florida",2,Apr,16,5,4,1.791759469228055
+736,"Orlando, Florida",2,May,19,7,5,2.0794415416798357
+737,"Orlando, Florida",2,Jun,22,3,6,1.3862943611198906
+738,"Orlando, Florida",2,Jul,23,6,7,1.9459101490553132
+739,"Orlando, Florida",2,Aug,23,5,8,1.791759469228055
+740,"Orlando, Florida",2,Sep,23,3,9,1.3862943611198906
+741,"Orlando, Florida",2,Oct,19,6,10,1.9459101490553132
+742,"Orlando, Florida",2,Nov,15,12,11,2.5649493574615367
+743,"Orlando, Florida",2,Dec,11,4,12,1.6094379124341003
+744,"Philadelphia, Pennsylvania",1,Jan,5,13,1,2.6390573296152584
+745,"Philadelphia, Pennsylvania",1,Feb,7,9,2,2.302585092994046
+746,"Philadelphia, Pennsylvania",1,Mar,12,7,3,2.0794415416798357
+747,"Philadelphia, Pennsylvania",1,Apr,18,3,4,1.3862943611198906
+748,"Philadelphia, Pennsylvania",1,May,23,1,5,0.6931471805599453
+749,"Philadelphia, Pennsylvania",1,Jun,28,2,6,1.0986122886681098
+750,"Philadelphia, Pennsylvania",1,Jul,31,1,7,0.6931471805599453
+751,"Philadelphia, Pennsylvania",1,Aug,30,3,8,1.3862943611198906
+752,"Philadelphia, Pennsylvania",1,Sep,26,0,9,0.0
+753,"Philadelphia, Pennsylvania",1,Oct,19,3,10,1.3862943611198906
+754,"Philadelphia, Pennsylvania",1,Nov,13,3,11,1.3862943611198906
+755,"Philadelphia, Pennsylvania",1,Dec,7,20,12,3.044522437723423
+756,"Philadelphia, Pennsylvania",2,Jan,-4,40,1,3.713572066704308
+757,"Philadelphia, Pennsylvania",2,Feb,-2,23,2,3.1780538303479458
+758,"Philadelphia, Pennsylvania",2,Mar,1,20,3,3.044522437723423
+759,"Philadelphia, Pennsylvania",2,Apr,7,15,4,2.772588722239781
+760,"Philadelphia, Pennsylvania",2,May,12,7,5,2.0794415416798357
+761,"Philadelphia, Pennsylvania",2,Jun,18,3,6,1.3862943611198906
+762,"Philadelphia, Pennsylvania",2,Jul,21,2,7,1.0986122886681098
+763,"Philadelphia, Pennsylvania",2,Aug,20,3,8,1.3862943611198906
+764,"Philadelphia, Pennsylvania",2,Sep,16,5,9,1.791759469228055
+765,"Philadelphia, Pennsylvania",2,Oct,9,14,10,2.70805020110221
+766,"Philadelphia, Pennsylvania",2,Nov,4,10,11,2.3978952727983707
+767,"Philadelphia, Pennsylvania",2,Dec,-1,21,12,3.091042453358316
+768,"Phoenix, Arizona",1,Jan,20,5,1,1.791759469228055
+769,"Phoenix, Arizona",1,Feb,22,3,2,1.3862943611198906
+770,"Phoenix, Arizona",1,Mar,26,8,3,2.1972245773362196
+771,"Phoenix, Arizona",1,Apr,30,2,4,1.0986122886681098
+772,"Phoenix, Arizona",1,May,35,0,5,0.0
+773,"Phoenix, Arizona",1,Jun,40,0,6,0.0
+774,"Phoenix, Arizona",1,Jul,41,0,7,0.0
+775,"Phoenix, Arizona",1,Aug,40,1,8,0.6931471805599453
+776,"Phoenix, Arizona",1,Sep,38,2,9,1.0986122886681098
+777,"Phoenix, Arizona",1,Oct,32,1,10,0.6931471805599453
+778,"Phoenix, Arizona",1,Nov,25,8,11,2.1972245773362196
+779,"Phoenix, Arizona",1,Dec,20,7,12,2.0794415416798357
+780,"Phoenix, Arizona",2,Jan,8,16,1,2.833213344056216
+781,"Phoenix, Arizona",2,Feb,9,9,2,2.302585092994046
+782,"Phoenix, Arizona",2,Mar,12,9,3,2.302585092994046
+783,"Phoenix, Arizona",2,Apr,16,5,4,1.791759469228055
+784,"Phoenix, Arizona",2,May,21,2,5,1.0986122886681098
+785,"Phoenix, Arizona",2,Jun,25,4,6,1.6094379124341003
+786,"Phoenix, Arizona",2,Jul,28,3,7,1.3862943611198906
+787,"Phoenix, Arizona",2,Aug,28,3,8,1.3862943611198906
+788,"Phoenix, Arizona",2,Sep,24,1,9,0.6931471805599453
+789,"Phoenix, Arizona",2,Oct,18,4,10,1.6094379124341003
+790,"Phoenix, Arizona",2,Nov,11,12,11,2.5649493574615367
+791,"Phoenix, Arizona",2,Dec,7,15,12,2.772588722239781
+792,"Pittsburgh, Pennsylvania",1,Jan,2,12,1,2.5649493574615367
+793,"Pittsburgh, Pennsylvania",1,Feb,4,11,2,2.4849066497880004
+794,"Pittsburgh, Pennsylvania",1,Mar,10,7,3,2.0794415416798357
+795,"Pittsburgh, Pennsylvania",1,Apr,17,5,4,1.791759469228055
+796,"Pittsburgh, Pennsylvania",1,May,22,1,5,0.6931471805599453
+797,"Pittsburgh, Pennsylvania",1,Jun,26,1,6,0.6931471805599453
+798,"Pittsburgh, Pennsylvania",1,Jul,28,0,7,0.0
+799,"Pittsburgh, Pennsylvania",1,Aug,27,1,8,0.6931471805599453
+800,"Pittsburgh, Pennsylvania",1,Sep,24,0,9,0.0
+801,"Pittsburgh, Pennsylvania",1,Oct,17,3,10,1.3862943611198906
+802,"Pittsburgh, Pennsylvania",1,Nov,11,5,11,1.791759469228055
+803,"Pittsburgh, Pennsylvania",1,Dec,4,13,12,2.6390573296152584
+804,"Pittsburgh, Pennsylvania",2,Jan,-6,61,1,4.127134385045092
+805,"Pittsburgh, Pennsylvania",2,Feb,-5,44,2,3.8066624897703196
+806,"Pittsburgh, Pennsylvania",2,Mar,-1,28,3,3.367295829986474
+807,"Pittsburgh, Pennsylvania",2,Apr,5,5,4,1.791759469228055
+808,"Pittsburgh, Pennsylvania",2,May,10,3,5,1.3862943611198906
+809,"Pittsburgh, Pennsylvania",2,Jun,15,2,6,1.0986122886681098
+810,"Pittsburgh, Pennsylvania",2,Jul,17,3,7,1.3862943611198906
+811,"Pittsburgh, Pennsylvania",2,Aug,16,1,8,0.6931471805599453
+812,"Pittsburgh, Pennsylvania",2,Sep,12,4,9,1.6094379124341003
+813,"Pittsburgh, Pennsylvania",2,Oct,6,6,10,1.9459101490553132
+814,"Pittsburgh, Pennsylvania",2,Nov,2,7,11,2.0794415416798357
+815,"Pittsburgh, Pennsylvania",2,Dec,-4,33,12,3.5263605246161616
+816,"Portland, Oregon",1,Jan,8,11,1,2.4849066497880004
+817,"Portland, Oregon",1,Feb,11,3,2,1.3862943611198906
+818,"Portland, Oregon",1,Mar,14,7,3,2.0794415416798357
+819,"Portland, Oregon",1,Apr,16,7,4,2.0794415416798357
+820,"Portland, Oregon",1,May,20,2,5,1.0986122886681098
+821,"Portland, Oregon",1,Jun,23,1,6,0.6931471805599453
+822,"Portland, Oregon",1,Jul,27,1,7,0.6931471805599453
+823,"Portland, Oregon",1,Aug,27,0,8,0.0
+824,"Portland, Oregon",1,Sep,24,1,9,0.6931471805599453
+825,"Portland, Oregon",1,Oct,18,2,10,1.0986122886681098
+826,"Portland, Oregon",1,Nov,11,8,11,2.1972245773362196
+827,"Portland, Oregon",1,Dec,7,9,12,2.302585092994046
+828,"Portland, Oregon",2,Jan,2,26,1,3.295836866004329
+829,"Portland, Oregon",2,Feb,3,11,2,2.4849066497880004
+830,"Portland, Oregon",2,Mar,4,17,3,2.8903717578961645
+831,"Portland, Oregon",2,Apr,6,16,4,2.833213344056216
+832,"Portland, Oregon",2,May,9,4,5,1.6094379124341003
+833,"Portland, Oregon",2,Jun,11,6,6,1.9459101490553132
+834,"Portland, Oregon",2,Jul,13,9,7,2.302585092994046
+835,"Portland, Oregon",2,Aug,14,6,8,1.9459101490553132
+836,"Portland, Oregon",2,Sep,11,6,9,1.9459101490553132
+837,"Portland, Oregon",2,Oct,8,10,10,2.3978952727983707
+838,"Portland, Oregon",2,Nov,5,10,11,2.3978952727983707
+839,"Portland, Oregon",2,Dec,2,17,12,2.8903717578961645
+840,"Providence, Rhode Island",1,Jan,3,14,1,2.70805020110221
+841,"Providence, Rhode Island",1,Feb,5,2,2,1.0986122886681098
+842,"Providence, Rhode Island",1,Mar,9,5,3,1.791759469228055
+843,"Providence, Rhode Island",1,Apr,15,2,4,1.0986122886681098
+844,"Providence, Rhode Island",1,May,20,0,5,0.0
+845,"Providence, Rhode Island",1,Jun,25,0,6,0.0
+846,"Providence, Rhode Island",1,Jul,28,0,7,0.0
+847,"Providence, Rhode Island",1,Aug,27,1,8,0.6931471805599453
+848,"Providence, Rhode Island",1,Sep,23,1,9,0.6931471805599453
+849,"Providence, Rhode Island",1,Oct,17,0,10,0.0
+850,"Providence, Rhode Island",1,Nov,12,3,11,1.3862943611198906
+851,"Providence, Rhode Island",1,Dec,6,11,12,2.4849066497880004
+852,"Providence, Rhode Island",2,Jan,-6,64,1,4.174387269895637
+853,"Providence, Rhode Island",2,Feb,-5,55,2,4.02535169073515
+854,"Providence, Rhode Island",2,Mar,-1,25,3,3.258096538021482
+855,"Providence, Rhode Island",2,Apr,4,11,4,2.4849066497880004
+856,"Providence, Rhode Island",2,May,9,7,5,2.0794415416798357
+857,"Providence, Rhode Island",2,Jun,15,2,6,1.0986122886681098
+858,"Providence, Rhode Island",2,Jul,18,3,7,1.3862943611198906
+859,"Providence, Rhode Island",2,Aug,17,0,8,0.0
+860,"Providence, Rhode Island",2,Sep,13,1,9,0.6931471805599453
+861,"Providence, Rhode Island",2,Oct,7,3,10,1.3862943611198906
+862,"Providence, Rhode Island",2,Nov,2,14,11,2.70805020110221
+863,"Providence, Rhode Island",2,Dec,-3,33,12,3.5263605246161616
+864,"Raleigh, North Carolina",1,Jan,11,3,1,1.3862943611198906
+865,"Raleigh, North Carolina",1,Feb,13,2,2,1.0986122886681098
+866,"Raleigh, North Carolina",1,Mar,17,1,3,0.6931471805599453
+867,"Raleigh, North Carolina",1,Apr,22,0,4,0.0
+868,"Raleigh, North Carolina",1,May,27,0,5,0.0
+869,"Raleigh, North Carolina",1,Jun,31,1,6,0.6931471805599453
+870,"Raleigh, North Carolina",1,Jul,32,0,7,0.0
+871,"Raleigh, North Carolina",1,Aug,31,0,8,0.0
+872,"Raleigh, North Carolina",1,Sep,28,0,9,0.0
+873,"Raleigh, North Carolina",1,Oct,23,1,10,0.6931471805599453
+874,"Raleigh, North Carolina",1,Nov,17,2,11,1.0986122886681098
+875,"Raleigh, North Carolina",1,Dec,12,2,12,1.0986122886681098
+876,"Raleigh, North Carolina",2,Jan,-1,19,1,2.995732273553991
+877,"Raleigh, North Carolina",2,Feb,0,20,2,3.044522437723423
+878,"Raleigh, North Carolina",2,Mar,4,13,3,2.6390573296152584
+879,"Raleigh, North Carolina",2,Apr,9,4,4,1.6094379124341003
+880,"Raleigh, North Carolina",2,May,14,4,5,1.6094379124341003
+881,"Raleigh, North Carolina",2,Jun,19,5,6,1.791759469228055
+882,"Raleigh, North Carolina",2,Jul,21,3,7,1.3862943611198906
+883,"Raleigh, North Carolina",2,Aug,20,1,8,0.6931471805599453
+884,"Raleigh, North Carolina",2,Sep,16,1,9,0.6931471805599453
+885,"Raleigh, North Carolina",2,Oct,10,2,10,1.0986122886681098
+886,"Raleigh, North Carolina",2,Nov,5,8,11,2.1972245773362196
+887,"Raleigh, North Carolina",2,Dec,0,10,12,2.3978952727983707
+888,"Richmond, Virginia",1,Jan,9,11,1,2.4849066497880004
+889,"Richmond, Virginia",1,Feb,11,9,2,2.302585092994046
+890,"Richmond, Virginia",1,Mar,16,7,3,2.0794415416798357
+891,"Richmond, Virginia",1,Apr,21,7,4,2.0794415416798357
+892,"Richmond, Virginia",1,May,26,5,5,1.791759469228055
+893,"Richmond, Virginia",1,Jun,30,7,6,2.0794415416798357
+894,"Richmond, Virginia",1,Jul,32,4,7,1.6094379124341003
+895,"Richmond, Virginia",1,Aug,31,4,8,1.6094379124341003
+896,"Richmond, Virginia",1,Sep,27,4,9,1.6094379124341003
+897,"Richmond, Virginia",1,Oct,22,3,10,1.3862943611198906
+898,"Richmond, Virginia",1,Nov,16,8,11,2.1972245773362196
+899,"Richmond, Virginia",1,Dec,10,11,12,2.4849066497880004
+900,"Richmond, Virginia",2,Jan,-2,15,1,2.772588722239781
+901,"Richmond, Virginia",2,Feb,-1,24,2,3.2188758248682006
+902,"Richmond, Virginia",2,Mar,3,16,3,2.833213344056216
+903,"Richmond, Virginia",2,Apr,8,16,4,2.833213344056216
+904,"Richmond, Virginia",2,May,13,13,5,2.6390573296152584
+905,"Richmond, Virginia",2,Jun,18,6,6,1.9459101490553132
+906,"Richmond, Virginia",2,Jul,21,7,7,2.0794415416798357
+907,"Richmond, Virginia",2,Aug,20,7,8,2.0794415416798357
+908,"Richmond, Virginia",2,Sep,16,13,9,2.6390573296152584
+909,"Richmond, Virginia",2,Oct,9,12,10,2.5649493574615367
+910,"Richmond, Virginia",2,Nov,4,15,11,2.772588722239781
+911,"Richmond, Virginia",2,Dec,0,16,12,2.833213344056216
+912,"Riverside, California",1,Jan,21,1,1,0.6931471805599453
+913,"Riverside, California",1,Feb,21,0,2,0.0
+914,"Riverside, California",1,Mar,23,1,3,0.6931471805599453
+915,"Riverside, California",1,Apr,25,0,4,0.0
+916,"Riverside, California",1,May,28,0,5,0.0
+917,"Riverside, California",1,Jun,31,1,6,0.6931471805599453
+918,"Riverside, California",1,Jul,35,0,7,0.0
+919,"Riverside, California",1,Aug,36,0,8,0.0
+920,"Riverside, California",1,Sep,34,1,9,0.6931471805599453
+921,"Riverside, California",1,Oct,29,0,10,0.0
+922,"Riverside, California",1,Nov,24,1,11,0.6931471805599453
+923,"Riverside, California",1,Dec,20,0,12,0.0
+924,"Riverside, California",2,Jan,6,12,1,2.5649493574615367
+925,"Riverside, California",2,Feb,7,7,2,2.0794415416798357
+926,"Riverside, California",2,Mar,8,5,3,1.791759469228055
+927,"Riverside, California",2,Apr,10,5,4,1.791759469228055
+928,"Riverside, California",2,May,13,7,5,2.0794415416798357
+929,"Riverside, California",2,Jun,15,4,6,1.6094379124341003
+930,"Riverside, California",2,Jul,18,2,7,1.0986122886681098
+931,"Riverside, California",2,Aug,18,0,8,0.0
+932,"Riverside, California",2,Sep,16,4,9,1.6094379124341003
+933,"Riverside, California",2,Oct,13,2,10,1.0986122886681098
+934,"Riverside, California",2,Nov,8,9,11,2.302585092994046
+935,"Riverside, California",2,Dec,5,6,12,1.9459101490553132
+936,"Rochester, New York",1,Jan,0,34,1,3.5553480614894135
+937,"Rochester, New York",1,Feb,1,14,2,2.70805020110221
+938,"Rochester, New York",1,Mar,6,18,3,2.9444389791664403
+939,"Rochester, New York",1,Apr,13,7,4,2.0794415416798357
+940,"Rochester, New York",1,May,20,11,5,2.4849066497880004
+941,"Rochester, New York",1,Jun,25,6,6,1.9459101490553132
+942,"Rochester, New York",1,Jul,27,1,7,0.6931471805599453
+943,"Rochester, New York",1,Aug,26,2,8,1.0986122886681098
+944,"Rochester, New York",1,Sep,22,9,9,2.302585092994046
+945,"Rochester, New York",1,Oct,15,1,10,0.6931471805599453
+946,"Rochester, New York",1,Nov,9,13,11,2.6390573296152584
+947,"Rochester, New York",1,Dec,3,19,12,2.995732273553991
+948,"Rochester, New York",2,Jan,-8,40,1,3.713572066704308
+949,"Rochester, New York",2,Feb,-7,43,2,3.784189633918261
+950,"Rochester, New York",2,Mar,-3,39,3,3.6888794541139363
+951,"Rochester, New York",2,Apr,3,20,4,3.044522437723423
+952,"Rochester, New York",2,May,8,13,5,2.6390573296152584
+953,"Rochester, New York",2,Jun,13,18,6,2.9444389791664403
+954,"Rochester, New York",2,Jul,16,4,7,1.6094379124341003
+955,"Rochester, New York",2,Aug,15,9,8,2.302585092994046
+956,"Rochester, New York",2,Sep,11,14,9,2.70805020110221
+957,"Rochester, New York",2,Oct,5,11,10,2.4849066497880004
+958,"Rochester, New York",2,Nov,1,18,11,2.9444389791664403
+959,"Rochester, New York",2,Dec,-5,29,12,3.4011973816621555
+960,"Sacramento, California",1,Jan,12,3,1,1.3862943611198906
+961,"Sacramento, California",1,Feb,16,2,2,1.0986122886681098
+962,"Sacramento, California",1,Mar,18,0,3,0.0
+963,"Sacramento, California",1,Apr,22,0,4,0.0
+964,"Sacramento, California",1,May,27,0,5,0.0
+965,"Sacramento, California",1,Jun,31,1,6,0.6931471805599453
+966,"Sacramento, California",1,Jul,33,0,7,0.0
+967,"Sacramento, California",1,Aug,33,0,8,0.0
+968,"Sacramento, California",1,Sep,31,0,9,0.0
+969,"Sacramento, California",1,Oct,25,0,10,0.0
+970,"Sacramento, California",1,Nov,18,3,11,1.3862943611198906
+971,"Sacramento, California",1,Dec,12,5,12,1.791759469228055
+972,"Sacramento, California",2,Jan,4,15,1,2.772588722239781
+973,"Sacramento, California",2,Feb,5,7,2,2.0794415416798357
+974,"Sacramento, California",2,Mar,7,3,3,1.3862943611198906
+975,"Sacramento, California",2,Apr,8,6,4,1.9459101490553132
+976,"Sacramento, California",2,May,11,2,5,1.0986122886681098
+977,"Sacramento, California",2,Jun,13,5,6,1.791759469228055
+978,"Sacramento, California",2,Jul,15,2,7,1.0986122886681098
+979,"Sacramento, California",2,Aug,14,2,8,1.0986122886681098
+980,"Sacramento, California",2,Sep,13,3,9,1.3862943611198906
+981,"Sacramento, California",2,Oct,10,6,10,1.9459101490553132
+982,"Sacramento, California",2,Nov,6,6,11,1.9459101490553132
+983,"Sacramento, California",2,Dec,4,11,12,2.4849066497880004
+984,"Salt Lake City, Utah",1,Jan,3,25,1,3.258096538021482
+985,"Salt Lake City, Utah",1,Feb,6,10,2,2.3978952727983707
+986,"Salt Lake City, Utah",1,Mar,12,4,3,1.6094379124341003
+987,"Salt Lake City, Utah",1,Apr,16,5,4,1.791759469228055
+988,"Salt Lake City, Utah",1,May,22,1,5,0.6931471805599453
+989,"Salt Lake City, Utah",1,Jun,28,2,6,1.0986122886681098
+990,"Salt Lake City, Utah",1,Jul,34,1,7,0.6931471805599453
+991,"Salt Lake City, Utah",1,Aug,33,2,8,1.0986122886681098
+992,"Salt Lake City, Utah",1,Sep,26,2,9,1.0986122886681098
+993,"Salt Lake City, Utah",1,Oct,18,2,10,1.0986122886681098
+994,"Salt Lake City, Utah",1,Nov,10,11,11,2.4849066497880004
+995,"Salt Lake City, Utah",1,Dec,3,16,12,2.833213344056216
+996,"Salt Lake City, Utah",2,Jan,-6,39,1,3.6888794541139363
+997,"Salt Lake City, Utah",2,Feb,-4,32,2,3.4965075614664802
+998,"Salt Lake City, Utah",2,Mar,1,13,3,2.6390573296152584
+999,"Salt Lake City, Utah",2,Apr,4,15,4,2.772588722239781
+1000,"Salt Lake City, Utah",2,May,9,11,5,2.4849066497880004
+1001,"Salt Lake City, Utah",2,Jun,14,4,6,1.6094379124341003
+1002,"Salt Lake City, Utah",2,Jul,18,6,7,1.9459101490553132
+1003,"Salt Lake City, Utah",2,Aug,17,4,8,1.6094379124341003
+1004,"Salt Lake City, Utah",2,Sep,12,7,9,2.0794415416798357
+1005,"Salt Lake City, Utah",2,Oct,5,11,10,2.4849066497880004
+1006,"Salt Lake City, Utah",2,Nov,-1,32,11,3.4965075614664802
+1007,"Salt Lake City, Utah",2,Dec,-5,51,12,3.9512437185814275
+1008,"San Antonio, Texas",1,Jan,17,6,1,1.9459101490553132
+1009,"San Antonio, Texas",1,Feb,19,6,2,1.9459101490553132
+1010,"San Antonio, Texas",1,Mar,23,1,3,0.6931471805599453
+1011,"San Antonio, Texas",1,Apr,27,0,4,0.0
+1012,"San Antonio, Texas",1,May,31,1,5,0.6931471805599453
+1013,"San Antonio, Texas",1,Jun,34,1,6,0.6931471805599453
+1014,"San Antonio, Texas",1,Jul,35,0,7,0.0
+1015,"San Antonio, Texas",1,Aug,36,1,8,0.6931471805599453
+1016,"San Antonio, Texas",1,Sep,32,0,9,0.0
+1017,"San Antonio, Texas",1,Oct,28,1,10,0.6931471805599453
+1018,"San Antonio, Texas",1,Nov,22,4,11,1.6094379124341003
+1019,"San Antonio, Texas",1,Dec,18,1,12,0.6931471805599453
+1020,"San Antonio, Texas",2,Jan,5,15,1,2.772588722239781
+1021,"San Antonio, Texas",2,Feb,7,13,2,2.6390573296152584
+1022,"San Antonio, Texas",2,Mar,10,11,3,2.4849066497880004
+1023,"San Antonio, Texas",2,Apr,15,4,4,1.6094379124341003
+1024,"San Antonio, Texas",2,May,19,2,5,1.0986122886681098
+1025,"San Antonio, Texas",2,Jun,23,3,6,1.3862943611198906
+1026,"San Antonio, Texas",2,Jul,24,1,7,0.6931471805599453
+1027,"San Antonio, Texas",2,Aug,24,2,8,1.0986122886681098
+1028,"San Antonio, Texas",2,Sep,21,2,9,1.0986122886681098
+1029,"San Antonio, Texas",2,Oct,16,1,10,0.6931471805599453
+1030,"San Antonio, Texas",2,Nov,10,7,11,2.0794415416798357
+1031,"San Antonio, Texas",2,Dec,5,12,12,2.5649493574615367
+1032,"San Diego, California",1,Jan,18,7,1,2.0794415416798357
+1033,"San Diego, California",1,Feb,18,4,2,1.6094379124341003
+1034,"San Diego, California",1,Mar,19,4,3,1.6094379124341003
+1035,"San Diego, California",1,Apr,20,3,4,1.3862943611198906
+1036,"San Diego, California",1,May,20,4,5,1.6094379124341003
+1037,"San Diego, California",1,Jun,22,0,6,0.0
+1038,"San Diego, California",1,Jul,24,3,7,1.3862943611198906
+1039,"San Diego, California",1,Aug,25,2,8,1.0986122886681098
+1040,"San Diego, California",1,Sep,24,0,9,0.0
+1041,"San Diego, California",1,Oct,23,3,10,1.3862943611198906
+1042,"San Diego, California",1,Nov,21,1,11,0.6931471805599453
+1043,"San Diego, California",1,Dec,18,4,12,1.6094379124341003
+1044,"San Diego, California",2,Jan,9,17,1,2.8903717578961645
+1045,"San Diego, California",2,Feb,10,5,2,1.791759469228055
+1046,"San Diego, California",2,Mar,12,5,3,1.791759469228055
+1047,"San Diego, California",2,Apr,13,7,4,2.0794415416798357
+1048,"San Diego, California",2,May,15,6,5,1.9459101490553132
+1049,"San Diego, California",2,Jun,17,8,6,2.1972245773362196
+1050,"San Diego, California",2,Jul,19,3,7,1.3862943611198906
+1051,"San Diego, California",2,Aug,19,3,8,1.3862943611198906
+1052,"San Diego, California",2,Sep,18,4,9,1.6094379124341003
+1053,"San Diego, California",2,Oct,16,5,10,1.791759469228055
+1054,"San Diego, California",2,Nov,12,10,11,2.3978952727983707
+1055,"San Diego, California",2,Dec,9,7,12,2.0794415416798357
+1056,"San Francisco, California",1,Jan,14,6,1,1.9459101490553132
+1057,"San Francisco, California",1,Feb,16,4,2,1.6094379124341003
+1058,"San Francisco, California",1,Mar,17,4,3,1.6094379124341003
+1059,"San Francisco, California",1,Apr,17,3,4,1.3862943611198906
+1060,"San Francisco, California",1,May,18,3,5,1.3862943611198906
+1061,"San Francisco, California",1,Jun,19,1,6,0.6931471805599453
+1062,"San Francisco, California",1,Jul,19,11,7,2.4849066497880004
+1063,"San Francisco, California",1,Aug,20,0,8,0.0
+1064,"San Francisco, California",1,Sep,21,6,9,1.9459101490553132
+1065,"San Francisco, California",1,Oct,21,3,10,1.3862943611198906
+1066,"San Francisco, California",1,Nov,17,4,11,1.6094379124341003
+1067,"San Francisco, California",1,Dec,14,6,12,1.9459101490553132
+1068,"San Francisco, California",2,Jan,8,10,1,2.3978952727983707
+1069,"San Francisco, California",2,Feb,9,12,2,2.5649493574615367
+1070,"San Francisco, California",2,Mar,9,13,3,2.6390573296152584
+1071,"San Francisco, California",2,Apr,10,10,4,2.3978952727983707
+1072,"San Francisco, California",2,May,11,11,5,2.4849066497880004
+1073,"San Francisco, California",2,Jun,12,5,6,1.791759469228055
+1074,"San Francisco, California",2,Jul,12,10,7,2.3978952727983707
+1075,"San Francisco, California",2,Aug,13,7,8,2.0794415416798357
+1076,"San Francisco, California",2,Sep,13,8,9,2.1972245773362196
+1077,"San Francisco, California",2,Oct,12,11,10,2.4849066497880004
+1078,"San Francisco, California",2,Nov,10,7,11,2.0794415416798357
+1079,"San Francisco, California",2,Dec,8,10,12,2.3978952727983707
+1080,"San Jose, California",1,Jan,15,8,1,2.1972245773362196
+1081,"San Jose, California",1,Feb,17,4,2,1.6094379124341003
+1082,"San Jose, California",1,Mar,19,6,3,1.9459101490553132
+1083,"San Jose, California",1,Apr,21,3,4,1.3862943611198906
+1084,"San Jose, California",1,May,24,3,5,1.3862943611198906
+1085,"San Jose, California",1,Jun,26,4,6,1.6094379124341003
+1086,"San Jose, California",1,Jul,28,2,7,1.0986122886681098
+1087,"San Jose, California",1,Aug,28,0,8,0.0
+1088,"San Jose, California",1,Sep,27,1,9,0.6931471805599453
+1089,"San Jose, California",1,Oct,23,2,10,1.0986122886681098
+1090,"San Jose, California",1,Nov,18,2,11,1.0986122886681098
+1091,"San Jose, California",1,Dec,14,13,12,2.6390573296152584
+1092,"San Jose, California",2,Jan,6,17,1,2.8903717578961645
+1093,"San Jose, California",2,Feb,7,15,2,2.772588722239781
+1094,"San Jose, California",2,Mar,8,13,3,2.6390573296152584
+1095,"San Jose, California",2,Apr,9,12,4,2.5649493574615367
+1096,"San Jose, California",2,May,11,11,5,2.4849066497880004
+1097,"San Jose, California",2,Jun,13,12,6,2.5649493574615367
+1098,"San Jose, California",2,Jul,15,4,7,1.6094379124341003
+1099,"San Jose, California",2,Aug,15,10,8,2.3978952727983707
+1100,"San Jose, California",2,Sep,14,5,9,1.791759469228055
+1101,"San Jose, California",2,Oct,11,10,10,2.3978952727983707
+1102,"San Jose, California",2,Nov,8,17,11,2.8903717578961645
+1103,"San Jose, California",2,Dec,6,9,12,2.302585092994046
+1104,"Seattle, Washington",1,Jan,9,9,1,2.302585092994046
+1105,"Seattle, Washington",1,Feb,11,8,2,2.1972245773362196
+1106,"Seattle, Washington",1,Mar,13,5,3,1.791759469228055
+1107,"Seattle, Washington",1,Apr,16,11,4,2.4849066497880004
+1108,"Seattle, Washington",1,May,19,1,5,0.6931471805599453
+1109,"Seattle, Washington",1,Jun,22,1,6,0.6931471805599453
+1110,"Seattle, Washington",1,Jul,24,2,7,1.0986122886681098
+1111,"Seattle, Washington",1,Aug,25,2,8,1.0986122886681098
+1112,"Seattle, Washington",1,Sep,22,3,9,1.3862943611198906
+1113,"Seattle, Washington",1,Oct,16,1,10,0.6931471805599453
+1114,"Seattle, Washington",1,Nov,11,6,11,1.9459101490553132
+1115,"Seattle, Washington",1,Dec,8,10,12,2.3978952727983707
+1116,"Seattle, Washington",2,Jan,3,9,1,2.302585092994046
+1117,"Seattle, Washington",2,Feb,3,17,2,2.8903717578961645
+1118,"Seattle, Washington",2,Mar,4,16,3,2.833213344056216
+1119,"Seattle, Washington",2,Apr,6,9,4,2.302585092994046
+1120,"Seattle, Washington",2,May,9,8,5,2.1972245773362196
+1121,"Seattle, Washington",2,Jun,12,5,6,1.791759469228055
+1122,"Seattle, Washington",2,Jul,14,6,7,1.9459101490553132
+1123,"Seattle, Washington",2,Aug,14,6,8,1.9459101490553132
+1124,"Seattle, Washington",2,Sep,12,4,9,1.6094379124341003
+1125,"Seattle, Washington",2,Oct,8,9,10,2.302585092994046
+1126,"Seattle, Washington",2,Nov,5,19,11,2.995732273553991
+1127,"Seattle, Washington",2,Dec,2,14,12,2.70805020110221
+1128,"St. Louis, Missouri",1,Jan,4,10,1,2.3978952727983707
+1129,"St. Louis, Missouri",1,Feb,7,7,2,2.0794415416798357
+1130,"St. Louis, Missouri",1,Mar,13,3,3,1.3862943611198906
+1131,"St. Louis, Missouri",1,Apr,20,1,4,0.6931471805599453
+1132,"St. Louis, Missouri",1,May,25,0,5,0.0
+1133,"St. Louis, Missouri",1,Jun,30,1,6,0.6931471805599453
+1134,"St. Louis, Missouri",1,Jul,32,0,7,0.0
+1135,"St. Louis, Missouri",1,Aug,31,2,8,1.0986122886681098
+1136,"St. Louis, Missouri",1,Sep,27,0,9,0.0
+1137,"St. Louis, Missouri",1,Oct,20,0,10,0.0
+1138,"St. Louis, Missouri",1,Nov,13,0,11,0.0
+1139,"St. Louis, Missouri",1,Dec,6,2,12,1.0986122886681098
+1140,"St. Louis, Missouri",2,Jan,-5,46,1,3.8501476017100584
+1141,"St. Louis, Missouri",2,Feb,-2,17,2,2.8903717578961645
+1142,"St. Louis, Missouri",2,Mar,3,9,3,2.302585092994046
+1143,"St. Louis, Missouri",2,Apr,8,2,4,1.0986122886681098
+1144,"St. Louis, Missouri",2,May,14,1,5,0.6931471805599453
+1145,"St. Louis, Missouri",2,Jun,19,0,6,0.0
+1146,"St. Louis, Missouri",2,Jul,22,0,7,0.0
+1147,"St. Louis, Missouri",2,Aug,21,0,8,0.0
+1148,"St. Louis, Missouri",2,Sep,16,0,9,0.0
+1149,"St. Louis, Missouri",2,Oct,9,4,10,1.6094379124341003
+1150,"St. Louis, Missouri",2,Nov,3,11,11,2.4849066497880004
+1151,"St. Louis, Missouri",2,Dec,-3,19,12,2.995732273553991
+1152,"Tampa, Florida",1,Jan,21,3,1,1.3862943611198906
+1153,"Tampa, Florida",1,Feb,23,5,2,1.791759469228055
+1154,"Tampa, Florida",1,Mar,25,4,3,1.6094379124341003
+1155,"Tampa, Florida",1,Apr,27,4,4,1.6094379124341003
+1156,"Tampa, Florida",1,May,31,2,5,1.0986122886681098
+1157,"Tampa, Florida",1,Jun,32,0,6,0.0
+1158,"Tampa, Florida",1,Jul,32,4,7,1.6094379124341003
+1159,"Tampa, Florida",1,Aug,32,0,8,0.0
+1160,"Tampa, Florida",1,Sep,32,1,9,0.6931471805599453
+1161,"Tampa, Florida",1,Oct,29,1,10,0.6931471805599453
+1162,"Tampa, Florida",1,Nov,26,2,11,1.0986122886681098
+1163,"Tampa, Florida",1,Dec,22,3,12,1.3862943611198906
+1164,"Tampa, Florida",2,Jan,11,11,1,2.4849066497880004
+1165,"Tampa, Florida",2,Feb,12,11,2,2.4849066497880004
+1166,"Tampa, Florida",2,Mar,15,8,3,2.1972245773362196
+1167,"Tampa, Florida",2,Apr,17,3,4,1.3862943611198906
+1168,"Tampa, Florida",2,May,21,4,5,1.6094379124341003
+1169,"Tampa, Florida",2,Jun,24,4,6,1.6094379124341003
+1170,"Tampa, Florida",2,Jul,24,1,7,0.6931471805599453
+1171,"Tampa, Florida",2,Aug,25,2,8,1.0986122886681098
+1172,"Tampa, Florida",2,Sep,24,1,9,0.6931471805599453
+1173,"Tampa, Florida",2,Oct,20,1,10,0.6931471805599453
+1174,"Tampa, Florida",2,Nov,16,7,11,2.0794415416798357
+1175,"Tampa, Florida",2,Dec,12,10,12,2.3978952727983707
+1176,"Virginia Beach, Virginia",1,Jan,9,3,1,1.3862943611198906
+1177,"Virginia Beach, Virginia",1,Feb,11,4,2,1.6094379124341003
+1178,"Virginia Beach, Virginia",1,Mar,15,1,3,0.6931471805599453
+1179,"Virginia Beach, Virginia",1,Apr,20,0,4,0.0
+1180,"Virginia Beach, Virginia",1,May,24,0,5,0.0
+1181,"Virginia Beach, Virginia",1,Jun,29,1,6,0.6931471805599453
+1182,"Virginia Beach, Virginia",1,Jul,31,0,7,0.0
+1183,"Virginia Beach, Virginia",1,Aug,30,1,8,0.6931471805599453
+1184,"Virginia Beach, Virginia",1,Sep,26,0,9,0.0
+1185,"Virginia Beach, Virginia",1,Oct,21,2,10,1.0986122886681098
+1186,"Virginia Beach, Virginia",1,Nov,16,3,11,1.3862943611198906
+1187,"Virginia Beach, Virginia",1,Dec,11,4,12,1.6094379124341003
+1188,"Virginia Beach, Virginia",2,Jan,0,29,1,3.4011973816621555
+1189,"Virginia Beach, Virginia",2,Feb,1,18,2,2.9444389791664403
+1190,"Virginia Beach, Virginia",2,Mar,5,12,3,2.5649493574615367
+1191,"Virginia Beach, Virginia",2,Apr,9,6,4,1.9459101490553132
+1192,"Virginia Beach, Virginia",2,May,14,4,5,1.6094379124341003
+1193,"Virginia Beach, Virginia",2,Jun,20,0,6,0.0
+1194,"Virginia Beach, Virginia",2,Jul,22,1,7,0.6931471805599453
+1195,"Virginia Beach, Virginia",2,Aug,22,1,8,0.6931471805599453
+1196,"Virginia Beach, Virginia",2,Sep,19,1,9,0.6931471805599453
+1197,"Virginia Beach, Virginia",2,Oct,12,7,10,2.0794415416798357
+1198,"Virginia Beach, Virginia",2,Nov,7,9,11,2.302585092994046
+1199,"Virginia Beach, Virginia",2,Dec,2,14,12,2.70805020110221
+1200,"Washington, DC",1,Jan,6,15,1,2.772588722239781
+1201,"Washington, DC",1,Feb,8,15,2,2.772588722239781
+1202,"Washington, DC",1,Mar,13,11,3,2.4849066497880004
+1203,"Washington, DC",1,Apr,19,3,4,1.3862943611198906
+1204,"Washington, DC",1,May,24,3,5,1.3862943611198906
+1205,"Washington, DC",1,Jun,29,3,6,1.3862943611198906
+1206,"Washington, DC",1,Jul,31,0,7,0.0
+1207,"Washington, DC",1,Aug,30,4,8,1.6094379124341003
+1208,"Washington, DC",1,Sep,26,1,9,0.6931471805599453
+1209,"Washington, DC",1,Oct,20,2,10,1.0986122886681098
+1210,"Washington, DC",1,Nov,14,5,11,1.791759469228055
+1211,"Washington, DC",1,Dec,8,10,12,2.3978952727983707
+1212,"Washington, DC",2,Jan,-2,23,1,3.1780538303479458
+1213,"Washington, DC",2,Feb,-1,29,2,3.4011973816621555
+1214,"Washington, DC",2,Mar,3,18,3,2.9444389791664403
+1215,"Washington, DC",2,Apr,8,8,4,2.1972245773362196
+1216,"Washington, DC",2,May,14,3,5,1.3862943611198906
+1217,"Washington, DC",2,Jun,19,4,6,1.6094379124341003
+1218,"Washington, DC",2,Jul,22,4,7,1.6094379124341003
+1219,"Washington, DC",2,Aug,21,6,8,1.9459101490553132
+1220,"Washington, DC",2,Sep,17,8,9,2.1972245773362196
+1221,"Washington, DC",2,Oct,10,12,10,2.5649493574615367
+1222,"Washington, DC",2,Nov,5,17,11,2.8903717578961645
+1223,"Washington, DC",2,Dec,0,29,12,3.4011973816621555
