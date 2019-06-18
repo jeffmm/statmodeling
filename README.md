@@ -1,10 +1,7 @@
----
-author:
-- 'Jeffrey M. Moore'
-title: '**Statistical Modeling Final Project**'
----
+# **Statistical Modeling Final Project**
+Jeffrey M. Moore
 
-[\[sec:intro\]]{#sec:intro label="sec:intro"}Introduction
+Introduction
 =========================================================
 
 Given two consecutive, random years of average monthly temperature data
@@ -13,24 +10,19 @@ those cities during those years, I will be constructing a statistical
 model to predict a third year of monthly electricity usage for Denver,
 Colorado given its average monthly temperature for that year. I will
 start by exploring the data in
-Section [\[sec:explore\]](#sec:explore){reference-type="ref"
-reference="sec:explore"}, then I will discuss my model selection process
-in Section [\[sec:model\]](#sec:model){reference-type="ref"
-reference="sec:model"}. I will then discuss the results and analyses of
+Section Explore, then I will discuss my model selection process
+in Section Model. I will then discuss the results and analyses of
 the model in
-Section [\[sec:results\]](#sec:results){reference-type="ref"
-reference="sec:results"} and summarize my conclusions in
-Section [\[sec:conclusion\]](#sec:conclusion){reference-type="ref"
-reference="sec:conclusion"}.
+Section Results and summarize my conclusions in
+Section Conclusion.
 
-[\[sec:explore\]]{#sec:explore label="sec:explore"}Exploratory Analysis
+Exploratory Analysis
 =======================================================================
 
 In order to visualize the data, I plotted the temperature and
 electricity usage (from here on referred to as energy usage) as a
 function of time for both years (see
-Fig. [\[fig:exploratory1\]](#fig:exploratory1){reference-type="ref"
-reference="fig:exploratory1"}). The approximate trend appears to be that
+Fig. 1. The approximate trend appears to be that
 temperatures are lowest in December/January and highest in July/August,
 and energy usage being lowest in July/August and highest in
 December/January. While the structure of the time-series data is similar
@@ -98,7 +90,7 @@ appropriate.](figs/denver_relative_pooled.png){width="\\textwidth"}
 [\[fig:relative\_pooled\]]{#fig:relative_pooled
 label="fig:relative_pooled"}
 
-[\[sec:model\]]{#sec:model label="sec:model"}Model Selection
+Model Selection
 ============================================================
 
 Since the goal of the model is to predict data for Denver, Colorado, I
@@ -175,7 +167,7 @@ well-fit model that only considers Denver's data for the purpose of
 predicting more data from Denver, and a model that incorporates all the
 data available from 50 other cities in the US.
 
-[\[sec:results\]]{#sec:results label="sec:results"}Model Results and Analyses
+Model Results and Analyses
 =============================================================================
 
 In order to fit the model described by
@@ -227,7 +219,7 @@ outlined by Ben Bolker at
 http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html).[]{label="fig:prediction"}](figs/denver_predictions.png){#fig:prediction
 width="65%"}
 
-[\[sec:conclusion\]]{#sec:conclusion label="sec:conclusion"}Conclusions and Future Extensions
+Conclusions and Future Extensions
 =============================================================================================
 
 There are several alternative approaches to the model I described above
