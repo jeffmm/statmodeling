@@ -1,7 +1,4 @@
-# **Statistical Modeling Final Project**
-Jeffrey M. Moore
-
-Introduction
+Predicting Energy Usage in Denver, CO
 =========================================================
 
 Given two consecutive, random years of average monthly temperature data
@@ -10,11 +7,11 @@ those cities during those years, I will be constructing a statistical
 model to predict a third year of monthly electricity usage for Denver,
 Colorado given its average monthly temperature for that year. I will
 start by exploring the data in
-Section Explore, then I will discuss my model selection process
-in Section Model. I will then discuss the results and analyses of
+the Exploratory Analysis section, then I will discuss my model selection process
+in the Model Selection section. I will then discuss the results and analyses of
 the model in
-Section Results and summarize my conclusions in
-Section Conclusion.
+the Model Results and Analyses section and summarize my conclusions in
+the Conclusions and Future Extensions section.
 
 Exploratory Analysis
 =======================================================================
@@ -203,7 +200,7 @@ The model parameters beta as well as the random effects
 for the city of Denver, CO were used to make predictions given the
 temperature data from Denver for the third year. These predictions, as
 well as calculated prediction intervals, are shown in
-Fig. . Included in the figure are the Denver
+Fig. 10. Included in the figure are the Denver
 observations from previous years. As a sanity check, it is good to see
 that all the previous observations fall into the range of the prediction
 interval, and the predictions for the new temperature data seem
@@ -217,9 +214,7 @@ full model with random effects for both intercept and temperature was
 extremely significant (p<2.2*10^{-16}), justifying the use of
 random effects for both intercept and temperature.
 
-![Predictions and 95% prediction intervals for third year of data from
-Denver, CO. ](figs/denver_predictions.png)
-
+### Figure 10
 To compare, I have also plotted the known Denver data from
 previous years. Prediction intervals were calculated from both fixed
 effects uncertainty plus the random effects variance by computing
@@ -228,6 +223,10 @@ variance-covariance matrix from parameters beta), as
 well as adding the residual variance (note that this is the method
 outlined by Ben Bolker at
 http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html ).
+
+![Predictions and 95% prediction intervals for third year of data from
+Denver, CO. ](figs/denver_predictions.png)
+
 Conclusions and Future Extensions
 =============================================================================================
 
